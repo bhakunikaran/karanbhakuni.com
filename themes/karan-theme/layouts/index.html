@@ -1,0 +1,20 @@
+{{ define "main" }}
+<section class="hero">
+  <h1>{{ .Site.Title }}</h1>
+  <p class="tagline">{{ .Site.Params.tagline }}</p>
+</section>
+
+<section class="essays">
+  <h2>Essays</h2>
+  <ul class="post-list">
+    {{ range (.Site.RegularPages.ByDate.Reverse) }}
+      {{ if eq .Section "posts" }}
+      <li>
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "02/01/2006" }}</time>
+      </li>
+      {{ end }}
+    {{ end }}
+  </ul>
+</section>
+{{ end }}

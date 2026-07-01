@@ -1,0 +1,17 @@
+{{ define "main" }}
+<section class="essays">
+  <h1>{{ .Title }}</h1>
+  <ul class="post-list">
+    {{ range .Paginator.Pages }}
+      <li>
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "02/01/2006" }}</time>
+      </li>
+    {{ end }}
+  </ul>
+  <nav class="pager">
+    {{ if .Paginator.HasPrev }}<a href="{{ .Paginator.Prev.URL }}">&larr; Newer</a>{{ end }}
+    {{ if .Paginator.HasNext }}<a href="{{ .Paginator.Next.URL }}">Older &rarr;</a>{{ end }}
+  </nav>
+</section>
+{{ end }}

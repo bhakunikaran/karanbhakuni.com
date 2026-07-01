@@ -1,0 +1,29 @@
+baseURL: "https://karanbhakuni.com/"
+languageCode: "en-us"
+title: "Karan Bhakuni"
+theme: "karan-theme"
+
+pagination:
+  pagerSize: 20
+
+params:
+  tagline: "Creating simplicity in a complex world"
+  podcast: "https://open.spotify.com/show/5m1dv63t7dbjo6YQcwDzSt"
+  twitter: "https://x.com/karanbhakuni"
+  linkedin: "https://www.linkedin.com/in/bhakunikaran"
+  instagram: "https://www.instagram.com/karanlogs"
+  reddit: "https://www.reddit.com/user/bhakunikaran/"
+
+menu:
+  main:
+    - name: "Home"
+      url: "/"
+      weight: 1
+    - name: "Essays"
+      url: "/posts/"
+      weight: 2
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

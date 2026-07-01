@@ -1,0 +1,11 @@
+---
+title: "From Building for Ourselves to Building for the World"
+date: "2025-09-25"
+slug: "from-building-for-ourselves-to-building-for-the-world"
+source_url: "https://www.karanbhakuni.com/from-building-for-ourselves-to-building-for-the-world/"
+---
+
+When I look back, I realize there are two kinds of founders. The first-time founders often build what they want. They chase a personal itch. A problem they face every day that they just can’t ignore. That was us with Grigora. Our WordPress site, Python Pool, was hacked. Overnight, millions of visitors disappeared. Years of content, revenue, and hard work gone in a single blow. It felt like watching your house burn down while you could do nothing about it. We were angry. Frustrated. But mostly, we felt helpless. So, we decided to fight back in the only way we knew; we built a platform where creators like us wouldn’t have to go through the same nightmare. A CMS that was simple, secure, and didn’t demand a computer science degree to manage. That’s how Grigora was born. It started as a personal quest. A reaction to our pain. But here’s the thing about first-time founders: the focus is often narrow. It’s about solving your problem first. Then, something shifts when you build again. The second time around, with Poper, we weren’t just building for ourselves. We were listening to hundreds of business owners, marketers, and product teams. We were studying user behavior, analyzing what drove engagement, and figuring out what actually helped websites grow. Poper wasn’t born from a single painful moment like Grigora. It was born from countless conversations and observations. First-time founders create what they wish existed. Second-time founders create what the world actually needs. Even legends like Elon Musk, Steve Jobs, and Mark Zuckerberg evolved this way. Elon didn’t stop after Zip2. Steve Jobs learned from the failure of NeXT before launching the iPhone. Zuckerberg kept transforming Facebook from a college network to a global empire. It’s a cycle. The first product comes from instinct.
+The second comes from wisdom. And maybe that’s the real journey of entrepreneurship. The first time, you prove it to yourself.
+The second time, you build something that touches millions. We did that with Grigora and Poper. One came from pain.
+The other from purpose.
