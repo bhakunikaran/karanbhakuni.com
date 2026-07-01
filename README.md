@@ -13,13 +13,10 @@ Personal site + blog, built with Hugo, deployed free on GitHub Pages.
 ## One-time setup (do this once)
 
 1. Create a new **public** GitHub repository (e.g. `karanbhakuni.com` or `personal-site`).
-2. From this folder, push it up:
+2. This folder is already a git repo with everything committed on `main`. Just point it at your new empty GitHub repo and push:
 
    ```
-   git init
-   git add .
-   git commit -m "Initial site"
-   git branch -M main
+   cd karan-site
    git remote add origin https://github.com/<your-username>/<repo-name>.git
    git push -u origin main
    ```
