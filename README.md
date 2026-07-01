@@ -17,7 +17,7 @@ Personal site + blog, built with Hugo, deployed free on GitHub Pages.
 
    ```
    cd karan-site
-   git remote add origin https://github.com/<your-username>/<repo-name>.git
+   git remote add origin https://github.com/bhakunikaran/karanbhakuni.com.git
    git push -u origin main
    ```
 
@@ -35,7 +35,7 @@ Personal site + blog, built with Hugo, deployed free on GitHub Pages.
 
    For `www.karanbhakuni.com`, add a **CNAME** record pointing to:
    ```
-   <your-username>.github.io
+   bhakunikaran.github.io
    ```
 
 6. Back in GitHub Pages settings, once DNS propagates (can take a few minutes to a few hours), check "Enforce HTTPS".
