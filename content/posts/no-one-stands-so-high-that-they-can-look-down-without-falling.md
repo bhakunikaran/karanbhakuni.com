@@ -5,4 +5,46 @@ slug: "no-one-stands-so-high-that-they-can-look-down-without-falling"
 source_url: "https://www.karanbhakuni.com/no-one-stands-so-high-that-they-can-look-down-without-falling/"
 ---
 
-There is a strange illusion that comes with progress. The moment someone achieves a little more, earns a little more, learns a little more, the ground beneath them begins to feel elevated. Not dramatically. Not obviously. Just enough to subtly change posture. Perspective shifts. Tone shifts. Judgement becomes easier. It is one of the oldest human tendencies. I remember a time when I caught myself doing it. Not outwardly, not in a way anyone could accuse me of. It was quieter than that. A thought passing through my mind about someone who was moving slower than I was. Someone who had not figured things out yet. Someone who was struggling in ways I had already moved past. There was a flicker of superiority. A quiet comparison. And then something stopped me. A few years earlier, I had been exactly where that person was. Confused. Trying. Uncertain. Needing patience I did not always receive. The only difference between us was timing. That realization felt grounding. Perspective is fragile. It depends on where you stand. But none of us stand permanently anywhere. Life rearranges positions quickly. The one who looks ahead today may be the one asking for help tomorrow. The Stoic philosopher Marcus Aurelius wrote in his Meditations that every human shares the same nature and the same fragility. He reminded himself daily not to despise others for their mistakes because he was capable of the same errors. Wisdom, to him, was inseparable from humility. Status, knowledge, success, influence. These things create height, but not distance from humanity. Every person carries fear, doubt, insecurity, desire. Some hide it better. Some have simply had more time to refine it. Looking down on someone is often a way of protecting your own insecurity. It creates a temporary feeling of stability. If someone else is beneath you, you must be safe above. But that safety is false. The higher someone believes they sit, the more fragile their position becomes. Arrogance isolates. It narrows perspective. It blinds you to your own blind spots. Eventually, life introduces something humbling. Failure. Loss. A lesson that reminds you how human you are. I once watched someone very successful dismiss a younger person’s idea publicly. It was subtle but sharp. The room shifted. Respect did not increase. It quietly decreased. Authority without humility rarely inspires loyalty. True strength does not require comparison. It does not need someone beneath it to feel secure. It stands steadily without needing to lower others. Humility is not self deprecation. It is clarity. It is recognizing that every advantage you have is a combination of effort, timing, opportunity, and circumstances you did not fully control. The illusion of height disappears when you remember how temporary it is. No one is high enough to look down without distorting their own vision. The more you rise, the more you see how interconnected everyone’s journey is. The person behind you is not beneath you. They are simply earlier in the same path. And the person ahead of you once stood where you are. Respect grows when comparison dissolves. In the end, the only stable way to stand tall is without needing anyone to kneel.
+There is a strange illusion that comes with progress.
+
+The moment someone achieves a little more, earns a little more, learns a little more, the ground beneath them begins to feel elevated. Not dramatically. Not obviously. Just enough to subtly change posture. Perspective shifts. Tone shifts. Judgement becomes easier.
+
+It is one of the oldest human tendencies.
+
+I remember a time when I caught myself doing it. Not outwardly, not in a way anyone could accuse me of. It was quieter than that. A thought passing through my mind about someone who was moving slower than I was. Someone who had not figured things out yet. Someone who was struggling in ways I had already moved past.
+
+There was a flicker of superiority. A quiet comparison.
+
+And then something stopped me.
+
+A few years earlier, I had been exactly where that person was. Confused. Trying. Uncertain. Needing patience I did not always receive. The only difference between us was timing.
+
+That realization felt grounding.
+
+Perspective is fragile. It depends on where you stand. But none of us stand permanently anywhere. Life rearranges positions quickly. The one who looks ahead today may be the one asking for help tomorrow.
+
+The Stoic philosopher Marcus Aurelius wrote in his Meditations that every human shares the same nature and the same fragility. He reminded himself daily not to despise others for their mistakes because he was capable of the same errors. Wisdom, to him, was inseparable from humility.
+
+Status, knowledge, success, influence. These things create height, but not distance from humanity. Every person carries fear, doubt, insecurity, desire. Some hide it better. Some have simply had more time to refine it.
+
+Looking down on someone is often a way of protecting your own insecurity. It creates a temporary feeling of stability. If someone else is beneath you, you must be safe above.
+
+But that safety is false.
+
+The higher someone believes they sit, the more fragile their position becomes. Arrogance isolates. It narrows perspective. It blinds you to your own blind spots. Eventually, life introduces something humbling. Failure. Loss. A lesson that reminds you how human you are.
+
+I once watched someone very successful dismiss a younger person’s idea publicly. It was subtle but sharp. The room shifted. Respect did not increase. It quietly decreased. Authority without humility rarely inspires loyalty.
+
+True strength does not require comparison. It does not need someone beneath it to feel secure. It stands steadily without needing to lower others.
+
+Humility is not self deprecation. It is clarity. It is recognizing that every advantage you have is a combination of effort, timing, opportunity, and circumstances you did not fully control.
+
+The illusion of height disappears when you remember how temporary it is.
+
+No one is high enough to look down without distorting their own vision.
+
+The more you rise, the more you see how interconnected everyone’s journey is. The person behind you is not beneath you. They are simply earlier in the same path. And the person ahead of you once stood where you are.
+
+Respect grows when comparison dissolves.
+
+In the end, the only stable way to stand tall is without needing anyone to kneel.

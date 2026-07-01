@@ -5,10 +5,44 @@ slug: "why-one-bad-moment-hurts-more-than-a-hundred-good-ones"
 source_url: "https://www.karanbhakuni.com/why-one-bad-moment-hurts-more-than-a-hundred-good-ones/"
 ---
 
-It is strange how life works, isn’t it? One small thing can break you. A careless comment from someone you love. A little mistake at work. A random memory that pops up out of nowhere when you are trying to sleep. Sometimes even a minor inconvenience like missing your bus or spilling coffee on your shirt is enough to ruin an entire day. It doesn’t take much for life to feel heavy. But happiness? That feels like it demands the world from us. You work for years to get that promotion, and when it finally comes, the happiness lasts for what? A few hours, maybe a day, before your mind moves on to the next goal. You buy the car you always dreamt of, and after a month, it just feels like a car. You hit a big milestone, something you have been chasing for ages, and instead of lasting joy, you feel an emptiness creeping in after the celebration fades. It almost feels unfair. Sadness seems to have such a low threshold. It needs so little to show up. Happiness, on the other hand, keeps raising the bar every time you think you have finally caught it. I have wondered about this a lot. Maybe it is because we are wired to survive, not to stay happy. Our minds are always scanning for threats, for things that can go wrong. That is why one bad day echoes in your head, but ten good days slip by quietly without making much noise. It is like our brains are designed to hold on to pain longer than joy. So the equation of life ends up looking like this:1 tiny setback = whole day ruined
-1 huge success = joy for a short while, then back to normalAnd if this is the case, if life keeps giving sadness so many doors to enter, what do we do? The only answer I have found is this. We have to learn to notice happiness in the smallest things too. The way rain smells when it hits the ground after a long summer.
-That first sip of tea or coffee in the morning when the world is still quiet.
-The sound of someone laughing in another room.
-A random old song playing in a shop that takes you straight back to childhood.
-The way sunlight moves slowly across your floor in the afternoon.
-The relief of sitting down after a long day. These things are small. They will never make it to your vision board or your list of life goals. But maybe that is the point. If sadness can creep in through the tiniest cracks, maybe happiness can too if we let it. Because if you keep waiting for big victories to make you happy, you might spend your whole life waiting. Happiness does not have to be loud or dramatic. It can be as quiet as a cool breeze on a hot day. As ordinary as a cup of coffee. As simple as a good song at the right moment. And maybe that is the real secret to surviving this life. Not lowering your ambitions, but lowering the size of the door through which you let joy enter.
+It is strange how life works, isn’t it?
+
+One small thing can break you. A careless comment from someone you love. A little mistake at work. A random memory that pops up out of nowhere when you are trying to sleep. Sometimes even a minor inconvenience like missing your bus or spilling coffee on your shirt is enough to ruin an entire day.
+
+It doesn’t take much for life to feel heavy.
+
+But happiness? That feels like it demands the world from us.
+
+You work for years to get that promotion, and when it finally comes, the happiness lasts for what? A few hours, maybe a day, before your mind moves on to the next goal. You buy the car you always dreamt of, and after a month, it just feels like a car. You hit a big milestone, something you have been chasing for ages, and instead of lasting joy, you feel an emptiness creeping in after the celebration fades.
+
+It almost feels unfair.
+
+Sadness seems to have such a low threshold. It needs so little to show up. Happiness, on the other hand, keeps raising the bar every time you think you have finally caught it.
+
+I have wondered about this a lot.
+
+Maybe it is because we are wired to survive, not to stay happy. Our minds are always scanning for threats, for things that can go wrong. That is why one bad day echoes in your head, but ten good days slip by quietly without making much noise. It is like our brains are designed to hold on to pain longer than joy.
+
+So the equation of life ends up looking like this:
+
+1 tiny setback = whole day ruined\
+1 huge success = joy for a short while, then back to normal
+
+And if this is the case, if life keeps giving sadness so many doors to enter, what do we do?
+
+The only answer I have found is this. We have to learn to notice happiness in the smallest things too.
+
+The way rain smells when it hits the ground after a long summer.\
+That first sip of tea or coffee in the morning when the world is still quiet.\
+The sound of someone laughing in another room.\
+A random old song playing in a shop that takes you straight back to childhood.\
+The way sunlight moves slowly across your floor in the afternoon.\
+The relief of sitting down after a long day.
+
+These things are small. They will never make it to your vision board or your list of life goals. But maybe that is the point. If sadness can creep in through the tiniest cracks, maybe happiness can too if we let it.
+
+Because if you keep waiting for big victories to make you happy, you might spend your whole life waiting.
+
+Happiness does not have to be loud or dramatic. It can be as quiet as a cool breeze on a hot day. As ordinary as a cup of coffee. As simple as a good song at the right moment.
+
+And maybe that is the real secret to surviving this life. Not lowering your ambitions, but lowering the size of the door through which you let joy enter.

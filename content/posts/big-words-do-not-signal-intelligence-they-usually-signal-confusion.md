@@ -5,7 +5,55 @@ slug: "big-words-do-not-signal-intelligence-they-usually-signal-confusion"
 source_url: "https://www.karanbhakuni.com/big-words-do-not-signal-intelligence-they-usually-signal-confusion/"
 ---
 
-Intelligence has never been loud. It does not announce itself through complexity or hide behind vocabulary. It reveals itself through clarity. Through the ability to take something tangled and make it understandable without diminishing its depth. Yet somewhere along the way, we started confusing difficulty with depth. I have seen this pattern in rooms full of educated people, in essays meant to impress, in conversations where language becomes a shield. Long sentences. Heavy terminology. Abstract phrasing stacked on top of abstraction. The speaker sounds intelligent, but the listener leaves unsure of what was actually said. That is not intelligence. That is fog. Often, big words are not used to clarify an idea, but to protect it. They create distance between the thinker and the truth. If the idea cannot be clearly stated, it cannot be clearly questioned. Confusion becomes camouflage. I have done this myself. There was a time when I believed sounding smart mattered more than being understood. I would dress simple thoughts in complicated language, afraid that clarity would make them seem trivial. Looking back, the truth is uncomfortable. I did not fully understand what I was trying to say. The words were doing the thinking for me. That realization changed how I listened to others. Truly intelligent people speak differently. They pause. They choose words carefully. They are not attached to sounding impressive. They are attached to being precise. When they explain something complex, it feels lighter, not heavier. Albert Einstein captured this perfectly when he said,“If you can’t explain it simply, you don’t understand it well enough.” This was not a dismissal of complexity. It was a demand for mastery. Simplicity is not the absence of depth. It is the result of depth fully digested. Confusion often hides behind sophistication because confusion feels vulnerable. Saying something plainly exposes it. It allows others to question it, test it, improve it. Big words create a false sense of safety. They make the speaker feel elevated while leaving the idea untouched. Philosopher Ludwig Wittgenstein went even further. He believed that many philosophical problems existed only because of unclear language. In his view, confusion was not a sign of deep thought, but of careless thinking. Clarity, to him, was an ethical responsibility. This applies far beyond philosophy. In leadership, unclear language hides poor decisions.
-In relationships, it hides avoidance.
-In self understanding, it hides fear. When you cannot say what you want simply, you often do not know what you want. When you cannot describe your values clearly, you struggle to live by them. Precision in language reflects precision in thought. There is also a subtle arrogance in unnecessary complexity. It assumes that being understood is optional. That obscurity equals superiority. In reality, it often signals that the speaker is still wrestling with the idea and does not want that struggle seen. Clarity requires courage. It forces you to stand behind your words. It forces you to mean what you say. It removes the escape route of interpretation. Big words can decorate thought, but they cannot replace it. The smartest people I have met do not try to sound intelligent. They try to be accurate. They respect the listener enough to make their ideas accessible. They know that understanding is not diluted by simplicity, but strengthened by it. Confusion dressed up as intelligence impresses briefly.
-Clarity builds trust over time. And in the end, trust is the true signal of intelligence.
+Intelligence has never been loud.
+
+It does not announce itself through complexity or hide behind vocabulary. It reveals itself through clarity. Through the ability to take something tangled and make it understandable without diminishing its depth.
+
+Yet somewhere along the way, we started confusing difficulty with depth.
+
+I have seen this pattern in rooms full of educated people, in essays meant to impress, in conversations where language becomes a shield. Long sentences. Heavy terminology. Abstract phrasing stacked on top of abstraction. The speaker sounds intelligent, but the listener leaves unsure of what was actually said.
+
+That is not intelligence. That is fog.
+
+Often, big words are not used to clarify an idea, but to protect it. They create distance between the thinker and the truth. If the idea cannot be clearly stated, it cannot be clearly questioned. Confusion becomes camouflage.
+
+I have done this myself.
+
+There was a time when I believed sounding smart mattered more than being understood. I would dress simple thoughts in complicated language, afraid that clarity would make them seem trivial. Looking back, the truth is uncomfortable. I did not fully understand what I was trying to say. The words were doing the thinking for me.
+
+That realization changed how I listened to others.
+
+Truly intelligent people speak differently. They pause. They choose words carefully. They are not attached to sounding impressive. They are attached to being precise. When they explain something complex, it feels lighter, not heavier.
+
+Albert Einstein captured this perfectly when he said,
+
+“If you can’t explain it simply, you don’t understand it well enough.”
+
+This was not a dismissal of complexity. It was a demand for mastery. Simplicity is not the absence of depth. It is the result of depth fully digested.
+
+Confusion often hides behind sophistication because confusion feels vulnerable. Saying something plainly exposes it. It allows others to question it, test it, improve it. Big words create a false sense of safety. They make the speaker feel elevated while leaving the idea untouched.
+
+Philosopher Ludwig Wittgenstein went even further. He believed that many philosophical problems existed only because of unclear language. In his view, confusion was not a sign of deep thought, but of careless thinking. Clarity, to him, was an ethical responsibility.
+
+This applies far beyond philosophy.
+
+In leadership, unclear language hides poor decisions.\
+In relationships, it hides avoidance.\
+In self understanding, it hides fear.
+
+When you cannot say what you want simply, you often do not know what you want. When you cannot describe your values clearly, you struggle to live by them. Precision in language reflects precision in thought.
+
+There is also a subtle arrogance in unnecessary complexity. It assumes that being understood is optional. That obscurity equals superiority. In reality, it often signals that the speaker is still wrestling with the idea and does not want that struggle seen.
+
+Clarity requires courage.
+
+It forces you to stand behind your words. It forces you to mean what you say. It removes the escape route of interpretation.
+
+Big words can decorate thought, but they cannot replace it.
+
+The smartest people I have met do not try to sound intelligent. They try to be accurate. They respect the listener enough to make their ideas accessible. They know that understanding is not diluted by simplicity, but strengthened by it.
+
+Confusion dressed up as intelligence impresses briefly.\
+Clarity builds trust over time.
+
+And in the end, trust is the true signal of intelligence.

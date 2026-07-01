@@ -5,6 +5,56 @@ slug: "you-dont-rise-by-working-harder-you-rise-by-becoming-harder-to-ignore"
 source_url: "https://www.karanbhakuni.com/you-dont-rise-by-working-harder-you-rise-by-becoming-harder-to-ignore/"
 ---
 
-For a long time, I believed that effort alone determined elevation. If I worked longer hours, stayed disciplined, stayed consistent, stayed quiet and productive, eventually the world would notice. Recognition would arrive naturally. Opportunity would follow competence. Merit would surface. That belief feels fair. It feels moral. It feels logical. It is also incomplete. I remember a phase where I was working intensely behind the scenes. Building. Learning. Improving. My days were full. My focus was sharp. But externally, nothing moved. No doors opened. No invitations came. No momentum formed. I was improving, but I was invisible. There is a difference between growth and visibility. Between competence and presence. Between effort and impact. Working harder makes you better.
-Becoming harder to ignore makes you rise. The distinction is uncomfortable because it forces you to confront something beyond effort. Visibility requires expression. It requires positioning. It requires standing somewhere specific instead of blending everywhere. I once saw two equally skilled people in the same field. One kept refining privately, perfecting every detail, waiting for the right moment. The other shared publicly, spoke clearly, chose a point of view, and stood behind it consistently. The second person rose faster. Not because they were more talented. Because they were more visible. Philosopher Friedrich Nietzsche wrote about the will to power, not as domination over others, but as the expansion of one’s presence. To assert oneself into the world requires more than internal development. It requires projection. Skill hidden is indistinguishable from skill absent. There is a fear that comes with becoming visible. Fear of criticism. Fear of being misunderstood. Fear of exposure. It feels safer to stay in the workshop than to step onto the stage. Hard work is private. Visibility is public. The market rewards perception as much as performance. People respond to clarity, to identity, to distinctiveness. When you articulate what you stand for, when you express ideas consistently, when your voice carries a recognizable tone, you become harder to overlook. Rising is not just about output. It is about signal. In a noisy world, being competent is not enough. You must also be distinct. Distinct in thought. Distinct in communication. Distinct in presence. I realized this slowly. I could keep refining endlessly, waiting to feel fully ready. Or I could share what I had now, imperfect but real. The moment I started expressing instead of hiding, momentum shifted. Not instantly. But perceptibly. Becoming harder to ignore does not mean becoming louder. It means becoming clearer. Clear about what you believe. Clear about what you offer. Clear about where you stand. Working harder builds depth.
-Being visible creates reach. The highest growth happens when both meet. But if you only choose one, choose expression over isolation. Because you do not rise simply by working in silence. You rise when your presence carries enough weight that it cannot be overlooked.
+For a long time, I believed that effort alone determined elevation.
+
+If I worked longer hours, stayed disciplined, stayed consistent, stayed quiet and productive, eventually the world would notice. Recognition would arrive naturally. Opportunity would follow competence. Merit would surface.
+
+That belief feels fair. It feels moral. It feels logical.
+
+It is also incomplete.
+
+I remember a phase where I was working intensely behind the scenes. Building. Learning. Improving. My days were full. My focus was sharp. But externally, nothing moved. No doors opened. No invitations came. No momentum formed.
+
+I was improving, but I was invisible.
+
+There is a difference between growth and visibility. Between competence and presence. Between effort and impact.
+
+Working harder makes you better.\
+Becoming harder to ignore makes you rise.
+
+The distinction is uncomfortable because it forces you to confront something beyond effort. Visibility requires expression. It requires positioning. It requires standing somewhere specific instead of blending everywhere.
+
+I once saw two equally skilled people in the same field. One kept refining privately, perfecting every detail, waiting for the right moment. The other shared publicly, spoke clearly, chose a point of view, and stood behind it consistently.
+
+The second person rose faster.
+
+Not because they were more talented. Because they were more visible.
+
+Philosopher Friedrich Nietzsche wrote about the will to power, not as domination over others, but as the expansion of one’s presence. To assert oneself into the world requires more than internal development. It requires projection.
+
+Skill hidden is indistinguishable from skill absent.
+
+There is a fear that comes with becoming visible. Fear of criticism. Fear of being misunderstood. Fear of exposure. It feels safer to stay in the workshop than to step onto the stage.
+
+Hard work is private. Visibility is public.
+
+The market rewards perception as much as performance. People respond to clarity, to identity, to distinctiveness. When you articulate what you stand for, when you express ideas consistently, when your voice carries a recognizable tone, you become harder to overlook.
+
+Rising is not just about output. It is about signal.
+
+In a noisy world, being competent is not enough. You must also be distinct. Distinct in thought. Distinct in communication. Distinct in presence.
+
+I realized this slowly. I could keep refining endlessly, waiting to feel fully ready. Or I could share what I had now, imperfect but real. The moment I started expressing instead of hiding, momentum shifted. Not instantly. But perceptibly.
+
+Becoming harder to ignore does not mean becoming louder. It means becoming clearer. Clear about what you believe. Clear about what you offer. Clear about where you stand.
+
+Working harder builds depth.\
+Being visible creates reach.
+
+The highest growth happens when both meet.
+
+But if you only choose one, choose expression over isolation.
+
+Because you do not rise simply by working in silence.
+
+You rise when your presence carries enough weight that it cannot be overlooked.
