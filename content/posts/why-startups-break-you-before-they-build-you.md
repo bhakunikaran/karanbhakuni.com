@@ -21,7 +21,9 @@ That same company that barely survives in the beginning is often the only real s
 
 Because while the early years feel painfully slow, something invisible is happening in the background. Every user you win, every mistake you make, every tiny improvement to your product quietly adds up. It does not feel like progress until it suddenly does.
 
-Warren Buffett once said,"The chains of habit are too light to be felt until they are too heavy to be broken."
+Warren Buffett once said,
+
+> "The chains of habit are too light to be felt until they are too heavy to be broken."
 
 Startups work the same way. In the beginning, the wins feel too small to matter. Then one day, they are too big to stop.
 

@@ -30,7 +30,11 @@ It’s strange how much power we give to that fear.
 
 The irony is that every time we say yes to something we don’t truly want, we are saying no to something we do.\
 Our time, energy, and focus they’re all limited.\
-If you visualize it as a simple equation, it looks something like this:1Every “Yes” = (Time + Energy) – What Actually Matters
+If you visualize it as a simple equation, it looks something like this:
+
+```
+Every “Yes” = (Time + Energy) – What Actually Matters
+```
 
 And over time, the subtraction adds up.\
 We end up tired, scattered, and unsure of what we even want anymore.

@@ -43,7 +43,10 @@ It is about stability.\
 It is about dignity.\
 It is about knowing that you still have a place in the world.
 
-Epictetus once wrote, **“First say to yourself what you would be, and then do what you have to do.”**\
+Epictetus once wrote,
+
+> “First say to yourself what you would be, and then do what you have to do.”
+
 For men, what you have to do often means staying useful even when motivation fades.
 
 Responsibility does not pause because you feel overwhelmed.\

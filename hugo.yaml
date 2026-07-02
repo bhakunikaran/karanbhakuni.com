@@ -1,10 +1,16 @@
-baseURL: "https://karanbhakuni.com/"
+baseURL: "https://www.karanbhakuni.com/"
 languageCode: "en-us"
 title: "Karan Bhakuni"
 theme: "karan-theme"
 
 pagination:
   pagerSize: 20
+
+# Serve posts at the root (/<slug>/) to preserve the URLs already indexed by
+# search engines. The old Grigora site published essays at karanbhakuni.com/<slug>/
+# with no section prefix, so we must match that exactly.
+permalinks:
+  posts: "/:slug/"
 
 params:
   tagline: "Creating simplicity in a complex world"
@@ -13,6 +19,22 @@ params:
   linkedin: "https://www.linkedin.com/in/bhakunikaran"
   instagram: "https://www.instagram.com/karanlogs"
   reddit: "https://www.reddit.com/user/bhakunikaran/"
+  projects:
+    - name: "Poper"
+      url: "https://www.poper.ai/"
+      desc: "AI-powered smart popups & widgets for smart sites"
+    - name: "Grigora"
+      url: "https://grigora.co/"
+      desc: "Start a blog, build a website — a WordPress alternative"
+    - name: "SaveSaas"
+      url: "https://www.savesaas.com/"
+      desc: "Find the best SaaS products"
+    - name: "PythonPool"
+      url: "https://www.pythonpool.com/"
+      desc: "Python tutorials & guides"
+    - name: "Latracal"
+      url: "https://www.latracal.com/"
+      desc: "latracal.com"
 
 menu:
   main:

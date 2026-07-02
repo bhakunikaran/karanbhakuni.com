@@ -13,8 +13,9 @@ Disrespect rarely comes in obvious forms. It does not always look like insults o
 
 What makes this painful is that the intention was never weakness. The intention was goodwill. Yet goodwill without boundaries sends a message you may not intend. It suggests that your needs are flexible, that your comfort is secondary, that your limits can be tested without consequence.
 
-There is a reason one of the Stoic philosopher warned,\
-**“He who wants to be respected must respect himself first.”**
+There is a reason one of the Stoic philosopher warned,
+
+> “He who wants to be respected must respect himself first.”
 
 Respect does not emerge from constant accommodation. It grows from clarity. When people know where you stand, they adjust. When they do not, they push until they find the edge.
 

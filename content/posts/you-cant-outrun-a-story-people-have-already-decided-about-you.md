@@ -21,7 +21,11 @@ Human beings rely on narratives to make sense of others. Once someone labels you
 
 The story becomes stable.
 
-Jean Paul Sartre once wrote, “Hell is other people.” He did not mean that people are evil. He meant that we often become trapped in the gaze of others. When someone defines you rigidly, you feel reduced to their perception. You become an object inside their narrative rather than a living, evolving subject.
+Jean Paul Sartre once wrote,
+
+> “Hell is other people.”
+
+He did not mean that people are evil. He meant that we often become trapped in the gaze of others. When someone defines you rigidly, you feel reduced to their perception. You become an object inside their narrative rather than a living, evolving subject.
 
 Trying to outrun that gaze is tempting.
 

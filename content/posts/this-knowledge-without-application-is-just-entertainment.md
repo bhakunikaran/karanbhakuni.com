@@ -33,7 +33,11 @@ We live in an era where information is infinite. You can learn almost anything i
 
 But advice is not action.
 
-Aristotle once said, “Knowing yourself is the beginning of all wisdom.” But he did not stop there. For him, virtue was practice. It was repetition. It was habit embodied. To know courage intellectually and to act courageously are not the same thing.
+Aristotle once said,
+
+> “Knowing yourself is the beginning of all wisdom.”
+
+But he did not stop there. For him, virtue was practice. It was repetition. It was habit embodied. To know courage intellectually and to act courageously are not the same thing.
 
 I had mistaken intellectual clarity for personal progress.
 

@@ -22,8 +22,9 @@ Political tension wears updated slogans.\
 Cultural outrage rotates through different faces.\
 The emotional rhythm stays intact.
 
-There is a reason Mark Twain once observed,\
-**“History doesn’t repeat itself, but it often rhymes.”**
+There is a reason Mark Twain once observed,
+
+> “History doesn’t repeat itself, but it often rhymes.”
 
 Fear does not disappear with time.\
 It simply finds a new name.\
@@ -49,8 +50,9 @@ Resistance restores freedom again.
 This movement is not chaos.\
 It is correction.
 
-George Santayana warned,\
-**“Those who cannot remember the past are condemned to repeat it.”**
+George Santayana warned,
+
+> “Those who cannot remember the past are condemned to repeat it.”
 
 Forgetting cycles creates panic.\
 Recognition creates calm.

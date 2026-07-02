@@ -31,6 +31,8 @@ One action becomes roots. Roots become a tree. A tree becomes a forest. And one 
 
 Here’s a simple way I like to see it:
 
+```
 Seed → Roots → Tree → Forest 1 Action → Months of Growth → Early Success → Generational Impact
+```
 
 Small moves compound over time. Courage is planting the seed without guarantees. Taking the first step even when the shade is invisible. Legacy doesn’t need to start with your family. It can start with you.

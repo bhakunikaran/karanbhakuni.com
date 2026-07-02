@@ -45,7 +45,10 @@ I’ve learned that acceptance isn’t giving up.\
 It’s growing up.\
 It’s realizing that life isn’t about bending the world to your will, it’s about bending your will to meet the world with grace.
 
-The Stoic philosopher Epictetus once said, *“**Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control.”***\
+The Stoic philosopher Epictetus once said,
+
+> “Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control.”
+
 That line became a quiet compass for me.\
 When I started focusing only on what was truly mine to influence, my attitude, my words, my reactions, I began to feel lighter.\
 The noise around me didn’t stop, but it no longer owned me.

@@ -9,7 +9,11 @@ I often think about how every invention, every piece of art, every line of code,
 
 It feels like math in motion. One person builds a tool. That tool is used by ten people. Each of those ten creates something new, reaching a hundred more. Soon, what began as one spark travels through thousands, shaping lives silently, invisibly.
 
-The equation looks simple at first:1One idea × Ten users × Ten choices each = A hundred paths changed forever.
+The equation looks simple at first:
+
+```
+One idea × Ten users × Ten choices each = A hundred paths changed forever.
+```
 
 But reality makes it exponential. Because the hundred paths go on to influence a thousand more, who then change ten thousand, and so on. Somewhere in that chain, a decision made in an office late at night alters the course of a stranger’s life decades later.
 

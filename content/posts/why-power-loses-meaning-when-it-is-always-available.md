@@ -25,8 +25,10 @@ A ruler who stands among the crowd all day loses the weight of his presence.\
 Authority does not vanish because power is gone.\
 It fades because boundaries disappear.
 
-Marcus Aurelius understood this well when he wrote,\
-**“Respect yourself enough to walk away from anything that no longer serves you.”**\
+Marcus Aurelius understood this well when he wrote,
+
+> “Respect yourself enough to walk away from anything that no longer serves you.”
+
 Distance is not rejection.\
 It is discernment.
 

@@ -22,10 +22,15 @@ Personal site + blog, built with Hugo, deployed free on GitHub Pages.
    ```
 
 3. On GitHub: go to the repo → **Settings → Pages** → under "Build and deployment", set **Source** to **GitHub Actions**. (You do NOT need to pick a branch/folder — the workflow handles that.)
-4. Still in **Settings → Pages**, under "Custom domain", enter `karanbhakuni.com` and save. GitHub will show a DNS check — that's expected until step 5 is done.
+4. Still in **Settings → Pages**, under "Custom domain", enter `www.karanbhakuni.com` and save. `www` is the canonical host because the old (already-indexed) site published at `www.karanbhakuni.com`, so we keep those URLs resolving directly. GitHub will show a DNS check — that's expected until step 5 is done.
 5. At your domain registrar (wherever karanbhakuni.com is registered), add these DNS records:
 
-   For the apex domain (`karanbhakuni.com`), add four **A** records pointing to:
+   For `www.karanbhakuni.com` (the canonical host), add a **CNAME** record pointing to:
+   ```
+   bhakunikaran.github.io
+   ```
+
+   For the apex domain (`karanbhakuni.com`), add four **A** records so it redirects to www:
    ```
    185.199.108.153
    185.199.109.153
@@ -33,12 +38,9 @@ Personal site + blog, built with Hugo, deployed free on GitHub Pages.
    185.199.111.153
    ```
 
-   For `www.karanbhakuni.com`, add a **CNAME** record pointing to:
-   ```
-   bhakunikaran.github.io
-   ```
-
 6. Back in GitHub Pages settings, once DNS propagates (can take a few minutes to a few hours), check "Enforce HTTPS".
+
+> Note on URLs: every essay is served at `www.karanbhakuni.com/<slug>/` (root level, no `/posts/` prefix) — byte-for-byte identical to the URLs already indexed by search engines. This is enforced by the `permalinks` setting in `hugo.yaml`; do not change it.
 
 That's the only manual, one-time setup. After this, everything is code:
 

@@ -43,8 +43,10 @@ She just wasn’t the person I had imagined.\
 In truth, she never claimed to be.\
 That entire picture existed only in my head.
 
-A line from Epictetus came to me later:\
-***“Appearances are not things themselves, but only their shadows.”***\
+A line from Epictetus came to me later:
+
+> “Appearances are not things themselves, but only their shadows.”
+
 Social media is the perfect example of this.\
 Everyone shows a shadow.\
 A highlight.\

@@ -4,6 +4,20 @@
   <p class="tagline">{{ .Site.Params.tagline }}</p>
 </section>
 
+{{ with .Site.Params.projects }}
+<section class="projects">
+  <h2>Projects</h2>
+  <ul class="project-list">
+    {{ range . }}
+    <li>
+      <a href="{{ .url }}" target="_blank" rel="noopener">{{ .name }}</a>
+      {{ with .desc }}<span class="desc">{{ . }}</span>{{ end }}
+    </li>
+    {{ end }}
+  </ul>
+</section>
+{{ end }}
+
 <section class="essays">
   <h2>Essays</h2>
   <ul class="post-list">

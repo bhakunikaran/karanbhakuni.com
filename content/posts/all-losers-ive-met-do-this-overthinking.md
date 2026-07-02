@@ -15,11 +15,17 @@ Here’s the uncomfortable truth: nobody cares. Nobody knows you. Nobody is thin
 
 The worst thing that can happen is you hear **“no.” **The best thing that can happen is you get one step closer to the life you want.
 
-I’ve started looking at it like a heuristic, a simple mental shortcut:**Action > Planning > Perfection**
+I’ve started looking at it like a heuristic, a simple mental shortcut:
+
+> **Action > Planning > Perfection**
 
 Because the more you stay in your head, the bigger the problem looks. Overthinking magnifies risk and kills speed.
 
-Here’s what works better:**Small bets** – Start tiny. A tweet. A landing page. A cold email. See what happens.**Feedback loops** – Let the world tell you if it’s working, not your imagination.**Iterate in public** – The more you share, the less scary it feels. The fear fades when it becomes normal.
+Here’s what works better:
+
+- **Small bets** – Start tiny. A tweet. A landing page. A cold email. See what happens.
+- **Feedback loops** – Let the world tell you if it’s working, not your imagination.
+- **Iterate in public** – The more you share, the less scary it feels. The fear fades when it becomes normal.
 
 When I look back, every big win in my life started with something embarrassingly small. My first startup ideas were messy. My first posts barely got views. But each “no” taught me more than months of overthinking ever did.
 

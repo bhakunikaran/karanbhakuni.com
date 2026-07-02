@@ -20,7 +20,10 @@ But that night, I didn’t.\
 I just listened.
 
 She cried, paused, and then kept talking.\
-At one point she said, “I don’t even need advice. I just need someone to hear me.”\
+At one point she said,
+
+> “I don’t even need advice. I just need someone to hear me.”
+
 And that hit me hard.\
 Because it made me realize how often I spoke just to fill silence, not to help.\
 Sometimes people don’t need your opinion.\

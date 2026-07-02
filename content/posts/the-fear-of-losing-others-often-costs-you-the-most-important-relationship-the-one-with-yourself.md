@@ -21,7 +21,7 @@ When you repeatedly choose not to hear it, the relationship with yourself weaken
 
 Philosophers understood this long before psychology named it. Socrates warned,
 
-**“To thine own self be true.”**
+> “To thine own self be true.”
 
 Not as a slogan, but as a responsibility. He believed that self betrayal was the deepest form of ignorance, because it fractures the inner order of a person. When your actions contradict your values, harmony collapses.
 
@@ -37,7 +37,7 @@ The more you abandon yourself to keep others, the less authentic the connection 
 
 Stoic philosopher Epictetus observed,
 
-**“No man is free who is not master of himself.”**
+> “No man is free who is not master of himself.”
 
 Freedom, in this sense, is not independence from others, but loyalty to one’s inner truth. When fear dictates your choices, you are no longer acting freely, even if you appear agreeable.
 

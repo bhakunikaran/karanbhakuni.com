@@ -30,7 +30,10 @@ Watching feels like effort.\
 Saving links feels like preparation.\
 But none of these actions push life forward unless paired with focus.
 
-Seneca once said, ***“To be everywhere is to be nowhere.”***\
+Seneca once said,
+
+> “To be everywhere is to be nowhere.”
+
 This line hits harder today than it ever did in ancient Rome.\
 Our minds are everywhere now.\
 Pinged by notifications.\

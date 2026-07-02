@@ -29,8 +29,14 @@ Our beliefs, ambitions, and emotions are not constants; they are variables that 
 What feels like loss is often the part of the curve where the line dips before climbing again.
 
 Philosophers have known this truth for centuries.\
-Heraclitus said, ***“The way up and the way down are one and the same.”***\
-Marcus Aurelius wrote, ***“What happens to every part of nature is for the good of the whole.”***\
+Heraclitus said,
+
+> “The way up and the way down are one and the same.”
+
+Marcus Aurelius wrote,
+
+> “What happens to every part of nature is for the good of the whole.”
+
 Both ideas point to the same reality, that destruction and creation are not opposites but partners in motion.
 
 Inside the cocoon, the caterpillar does not sleep.\

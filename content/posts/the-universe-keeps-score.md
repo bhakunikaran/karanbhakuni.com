@@ -51,7 +51,10 @@ You’ll face a hard moment and find strength you didn’t know you had, born fr
 Reciprocity isn’t karma.\
 It’s deeper than that.\
 It’s how connection sustains itself in a world that often feels transactional.\
-It’s how life quietly says, “I noticed.”\
+It’s how life quietly says,
+
+> “I noticed.”
+
 Even when no one claps.
 
 So keep giving.\

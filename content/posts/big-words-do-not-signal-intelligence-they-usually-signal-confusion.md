@@ -27,7 +27,7 @@ Truly intelligent people speak differently. They pause. They choose words carefu
 
 Albert Einstein captured this perfectly when he said,
 
-“If you can’t explain it simply, you don’t understand it well enough.”
+> “If you can’t explain it simply, you don’t understand it well enough.”
 
 This was not a dismissal of complexity. It was a demand for mastery. Simplicity is not the absence of depth. It is the result of depth fully digested.
 
