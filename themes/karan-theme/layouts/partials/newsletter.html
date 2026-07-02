@@ -1,5 +1,5 @@
 {{- with .Site.Params.newsletter }}{{ if .kitFormId }}
-<section class="newsletter">
+<section class="newsletter" id="subscribe">
   <h2 class="nl-heading">{{ .heading | default "Get new essays in your inbox" }}</h2>
   {{ with .blurb }}<p class="nl-blurb">{{ . }}</p>{{ end }}
   <form class="nl-form" action="https://app.kit.com/forms/{{ .kitFormId }}/subscriptions" method="post" target="_blank">

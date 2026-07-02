@@ -87,6 +87,15 @@ img { max-width: 100%; }
 }
 .site-header nav a:hover, .site-header nav a.active { color: var(--ink); }
 .site-header nav { display: flex; align-items: center; }
+.site-header nav a.nav-cta {
+  color: #fff;
+  background: var(--accent);
+  padding: 7px 15px;
+  border-radius: 999px;
+  font-weight: 600;
+  transition: background .18s ease, transform .18s ease;
+}
+.site-header nav a.nav-cta:hover { color: #fff; background: var(--accent-ink); transform: translateY(-1px); }
 .theme-toggle {
   margin-left: 22px;
   width: 34px; height: 34px;
@@ -362,6 +371,7 @@ main.wrap { padding-top: 40px; padding-bottom: 72px; min-height: 60vh; }
 
 /* ---------- Newsletter ---------- */
 .newsletter {
+  scroll-margin-top: 84px;
   margin: 56px 0 8px;
   padding: 34px 32px;
   background: var(--surface);
