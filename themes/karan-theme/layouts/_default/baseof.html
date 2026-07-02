@@ -58,5 +58,6 @@
     </div>
   </footer>
   <script>function __toggleTheme(){var d=document.documentElement;if(d.getAttribute('data-theme')==='dark'){d.removeAttribute('data-theme');try{localStorage.setItem('theme','light')}catch(e){}}else{d.setAttribute('data-theme','dark');try{localStorage.setItem('theme','dark')}catch(e){}}}</script>
+  <script>document.addEventListener('submit',function(e){var f=e.target;if(!f.classList||!f.classList.contains('nl-form'))return;e.preventDefault();try{fetch(f.action,{method:'POST',body:new FormData(f),mode:'no-cors'})}catch(_){}var s=f.parentElement.querySelector('[data-nl-success]');f.style.display='none';if(s)s.hidden=false;});</script>
 </body>
 </html>

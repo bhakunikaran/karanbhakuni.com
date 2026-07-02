@@ -12,6 +12,8 @@
     {{ .Content }}
   </div>
 
+  {{ partial "newsletter.html" . }}
+
   {{ $older := .PrevInSection }}{{ $newer := .NextInSection }}
   {{ if or $older $newer }}
   <nav class="post-nav">

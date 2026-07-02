@@ -360,6 +360,41 @@ main.wrap { padding-top: 40px; padding-bottom: 72px; min-height: 60vh; }
 .page-title { font-family: var(--display); font-weight: 600; font-size: 2.2rem; margin: 0 0 28px; letter-spacing: -0.02em; }
 .pager { display: flex; justify-content: space-between; font-family: var(--sans); font-size: 0.92rem; margin-top: 32px; }
 
+/* ---------- Newsletter ---------- */
+.newsletter {
+  margin: 56px 0 8px;
+  padding: 34px 32px;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  text-align: center;
+}
+.nl-heading { font-family: var(--display); font-weight: 600; font-size: 1.5rem; letter-spacing: -0.01em; margin: 0 0 8px; }
+.nl-blurb { color: var(--muted); font-size: 0.98rem; max-width: 42ch; margin: 0 auto 20px; }
+.nl-form { display: flex; gap: 10px; max-width: 440px; margin: 0 auto; }
+.nl-input {
+  flex: 1; min-width: 0;
+  font-family: var(--sans); font-size: 0.98rem;
+  padding: 12px 15px;
+  color: var(--ink); background: var(--bg);
+  border: 1px solid var(--line-strong); border-radius: 10px;
+  transition: border-color .18s ease;
+}
+.nl-input:focus { outline: none; border-color: var(--accent); }
+.nl-btn {
+  font-family: var(--sans); font-size: 0.95rem; font-weight: 600;
+  padding: 12px 22px;
+  color: #fff; background: var(--accent);
+  border: none; border-radius: 10px; cursor: pointer;
+  transition: background .18s ease, transform .18s ease;
+}
+.nl-btn:hover { background: var(--accent-ink); transform: translateY(-1px); }
+.nl-success { color: var(--accent); font-family: var(--sans); font-weight: 500; margin: 16px 0 0; }
+@media (max-width: 640px) {
+  .newsletter { padding: 26px 20px; }
+  .nl-form { flex-direction: column; }
+}
+
 /* ---------- Footer ---------- */
 .site-footer {
   border-top: 1px solid var(--line);

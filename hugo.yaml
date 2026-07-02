@@ -15,6 +15,14 @@ permalinks:
 params:
   tagline: "Creating simplicity in a complex world"
   bio: "I build products and write. Most days there's a new essay here about focus, self-respect, and the quiet forces that shape a life."
+  # Newsletter (Kit / ConvertKit). Paste your Kit form ID below to turn the
+  # subscribe box on. Find it in Kit: Grow -> Landing Pages & Forms -> your form
+  # -> the number in the URL (app.kit.com/forms/XXXXXXX). Leave empty to hide.
+  newsletter:
+    kitFormId: ""
+    heading: "Get new essays in your inbox"
+    blurb: "A new essay most days on focus, self-respect, and living deliberately. No spam. Unsubscribe anytime."
+    button: "Subscribe"
   podcast: "https://open.spotify.com/show/5m1dv63t7dbjo6YQcwDzSt"
   twitter: "https://x.com/karanbhakuni"
   linkedin: "https://www.linkedin.com/in/bhakunikaran"

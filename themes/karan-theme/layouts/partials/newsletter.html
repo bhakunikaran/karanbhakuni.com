@@ -1,0 +1,11 @@
+{{- with .Site.Params.newsletter }}{{ if .kitFormId }}
+<section class="newsletter">
+  <h2 class="nl-heading">{{ .heading | default "Get new essays in your inbox" }}</h2>
+  {{ with .blurb }}<p class="nl-blurb">{{ . }}</p>{{ end }}
+  <form class="nl-form" action="https://app.kit.com/forms/{{ .kitFormId }}/subscriptions" method="post" target="_blank">
+    <input class="nl-input" type="email" name="email_address" placeholder="you@email.com" aria-label="Email address" autocomplete="email" required>
+    <button class="nl-btn" type="submit">{{ .button | default "Subscribe" }}</button>
+  </form>
+  <p class="nl-success" hidden data-nl-success>Thanks — check your inbox to confirm.</p>
+</section>
+{{ end }}{{ end -}}
