@@ -8,11 +8,14 @@
   {{ $desc := .Site.Params.tagline }}
   {{ if .Description }}{{ $desc = .Description }}{{ else if and (not .IsHome) .Summary }}{{ $desc = .Summary | plainify | replaceRE "\\s+" " " | strings.TrimSpace | truncate 158 }}{{ end }}
   <meta name="description" content="{{ $desc }}">
+  <meta name="author" content="{{ .Site.Title }}">
+  <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
   <link rel="canonical" href="{{ .Permalink }}">
   <meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}">
   <meta property="og:type" content="{{ if .IsHome }}website{{ else }}article{{ end }}">
   <meta property="og:url" content="{{ .Permalink }}">
   <meta property="og:site_name" content="{{ .Site.Title }}">
+  <meta property="og:locale" content="en_US">
   <meta property="og:description" content="{{ $desc }}">
   {{ $ogimg := .Site.Params.profileImage | absURL }}{{ $twcard := "summary" }}
   {{ with .Params.image }}{{ $ogimg = . | absURL }}{{ end }}
@@ -20,11 +23,26 @@
   {{ with $ogimg }}<meta property="og:image" content="{{ . }}">{{ end }}
   <meta name="twitter:card" content="{{ $twcard }}">
   <meta name="twitter:image" content="{{ $ogimg }}">
-  {{ with .Site.Params.twitter }}<meta name="twitter:site" content="@{{ path.Base . }}">{{ end }}
-  {{ if not .IsHome }}{{ if eq .Section "posts" }}
-  {{ $ld := dict "@context" "https://schema.org" "@type" "BlogPosting" "headline" .Title "description" $desc "datePublished" (.Date.Format "2006-01-02") "dateModified" (.Lastmod.Format "2006-01-02") "author" (dict "@type" "Person" "name" .Site.Title "url" .Site.Home.Permalink) "image" $ogimg "url" .Permalink "mainEntityOfPage" .Permalink }}
+  {{ with .Site.Params.twitter }}<meta name="twitter:site" content="@{{ path.Base . }}">
+  <meta name="twitter:creator" content="@{{ path.Base . }}">{{ end }}
+  {{ if and .IsPage (eq .Section "posts") }}
+  <meta property="article:published_time" content="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+  <meta property="article:modified_time" content="{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}">
+  <meta property="article:author" content="{{ .Site.Title }}">
+  {{ end }}
+  {{ if and .IsPage (eq .Section "posts") }}
+  {{ $ld := dict "@context" "https://schema.org" "@type" "BlogPosting" "headline" .Title "description" $desc "datePublished" (.Date.Format "2006-01-02") "dateModified" (.Lastmod.Format "2006-01-02") "author" (dict "@type" "Person" "name" .Site.Title "url" .Site.Home.Permalink) "publisher" (dict "@type" "Person" "name" .Site.Title "url" .Site.Home.Permalink) "image" $ogimg "url" .Permalink "mainEntityOfPage" .Permalink "wordCount" .WordCount }}
   <script type="application/ld+json">{{ $ld | jsonify | safeJS }}</script>
-  {{ end }}{{ end }}
+  {{ $crumbs := dict "@context" "https://schema.org" "@type" "BreadcrumbList" "itemListElement" (slice (dict "@type" "ListItem" "position" 1 "name" "Home" "item" .Site.Home.Permalink) (dict "@type" "ListItem" "position" 2 "name" "Essays" "item" (printf "%sposts/" .Site.Home.Permalink)) (dict "@type" "ListItem" "position" 3 "name" .Title "item" .Permalink)) }}
+  <script type="application/ld+json">{{ $crumbs | jsonify | safeJS }}</script>
+  {{ end }}
+  {{ if .IsHome }}
+  {{ $sameas := slice }}{{ range (slice .Site.Params.twitter .Site.Params.linkedin .Site.Params.instagram .Site.Params.reddit .Site.Params.podcast) }}{{ with . }}{{ $sameas = $sameas | append . }}{{ end }}{{ end }}
+  {{ $person := dict "@context" "https://schema.org" "@type" "Person" "name" .Site.Title "url" .Site.Home.Permalink "image" (.Site.Params.profileImage | absURL) "description" .Site.Params.bio "sameAs" $sameas }}
+  <script type="application/ld+json">{{ $person | jsonify | safeJS }}</script>
+  {{ $website := dict "@context" "https://schema.org" "@type" "WebSite" "name" .Site.Title "url" .Site.Home.Permalink "description" .Site.Params.tagline "inLanguage" "en-US" }}
+  <script type="application/ld+json">{{ $website | jsonify | safeJS }}</script>
+  {{ end }}
   <link rel="icon" type="image/webp" href="{{ "favicon.webp" | relURL }}">
   <link rel="apple-touch-icon" href="{{ "apple-touch-icon.webp" | relURL }}">
   <link rel="preconnect" href="https://fonts.googleapis.com">

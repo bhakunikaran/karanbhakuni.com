@@ -2,6 +2,7 @@ baseURL: "https://www.karanbhakuni.com/"
 languageCode: "en-us"
 title: "Karan Bhakuni"
 theme: "karan-theme"
+enableRobotsTXT: true
 
 # No tags/categories are used, so don't generate (or index) empty taxonomy pages.
 disableKinds:
@@ -19,7 +20,7 @@ permalinks:
 
 params:
   tagline: "Creating simplicity in a complex world"
-  bio: "I build products and write. Most days there's a new essay here about focus, self-respect, and the quiet forces that shape a life."
+  bio: "I build products and write. Most days there's a new essay here, each one an attempt to understand the quiet forces that shape a life: how focus is actually built, why self-respect tends to stay silent, and how the small choices no one sees end up deciding who you become."
   # Newsletter (Kit / ConvertKit). Paste your Kit form ID below to turn the
   # subscribe box on. Find it in Kit: Grow -> Landing Pages & Forms -> your form
   # -> the number in the URL (app.kit.com/forms/XXXXXXX). Leave empty to hide.
@@ -72,6 +73,9 @@ menu:
     - name: "Essays"
       url: "/posts/"
       weight: 2
+    - name: "Thoughts"
+      url: "/thoughts/"
+      weight: 3
 
 markup:
   goldmark:
