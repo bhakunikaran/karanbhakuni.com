@@ -33,7 +33,7 @@ Our time, energy, and focus they’re all limited.\
 If you visualize it as a simple equation, it looks something like this:
 
 ```
-Every “Yes” = (Time + Energy) – What Actually Matters
+Every “Yes” = (Time + Energy) - What Actually Matters
 ```
 
 And over time, the subtraction adds up.\

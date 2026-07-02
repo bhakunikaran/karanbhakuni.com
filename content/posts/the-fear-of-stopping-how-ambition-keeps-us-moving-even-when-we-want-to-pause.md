@@ -1,5 +1,5 @@
 ---
-title: "The Fear of Stopping – How Ambition Keeps Us Moving Even When We Want to Pause"
+title: "The Fear of Stopping: How Ambition Keeps Us Moving Even When We Want to Pause"
 date: "2025-09-21"
 slug: "the-fear-of-stopping-how-ambition-keeps-us-moving-even-when-we-want-to-pause"
 source_url: "https://www.karanbhakuni.com/the-fear-of-stopping-how-ambition-keeps-us-moving-even-when-we-want-to-pause/"

@@ -42,7 +42,7 @@ You might give love and receive freedom.
 I’ve learned that the moment you stop keeping track is when the universe starts doing it for you.\
 Real reciprocity doesn’t live in “if I do this, I’ll get that.”\
 It lives in the quiet trust that goodness finds its way back.\
-Every genuine compliment, every patient silence, every choice to forgive instead of argue — it all adds to an invisible balance sheet that life never forgets.
+Every genuine compliment, every patient silence, every choice to forgive instead of argue. It all adds to an invisible balance sheet that life never forgets.
 
 And the irony is, most of the time you don’t realize you’ve been paid back until much later.\
 You’ll meet someone who changes your life, and only then will you see how every small act led you to that point.\
