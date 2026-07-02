@@ -5,19 +5,21 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <script>(function(){try{if(localStorage.getItem('theme')==='dark'){document.documentElement.setAttribute('data-theme','dark');}}catch(e){}})();</script>
   <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} - {{ .Site.Title }}{{ end }}</title>
-  {{ with .Description }}<meta name="description" content="{{ . }}">{{ else }}<meta name="description" content="{{ .Site.Params.tagline }}">{{ end }}
+  {{ $desc := .Site.Params.tagline }}
+  {{ if .Description }}{{ $desc = .Description }}{{ else if and (not .IsHome) .Summary }}{{ $desc = .Summary | plainify | replaceRE "\\s+" " " | strings.TrimSpace | truncate 158 }}{{ end }}
+  <meta name="description" content="{{ $desc }}">
   <link rel="canonical" href="{{ .Permalink }}">
   <meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}">
   <meta property="og:type" content="{{ if .IsHome }}website{{ else }}article{{ end }}">
   <meta property="og:url" content="{{ .Permalink }}">
   <meta property="og:site_name" content="{{ .Site.Title }}">
-  <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.tagline }}{{ end }}">
+  <meta property="og:description" content="{{ $desc }}">
   {{ $ogimg := .Site.Params.profileImage }}{{ with .Params.image }}{{ $ogimg = . }}{{ end }}
   {{ with $ogimg }}<meta property="og:image" content="{{ . | absURL }}">{{ end }}
   <meta name="twitter:card" content="summary">
   {{ with .Site.Params.twitter }}<meta name="twitter:site" content="@{{ path.Base . }}">{{ end }}
   {{ if not .IsHome }}{{ if eq .Section "posts" }}
-  {{ $ld := dict "@context" "https://schema.org" "@type" "BlogPosting" "headline" .Title "datePublished" (.Date.Format "2006-01-02") "dateModified" (.Lastmod.Format "2006-01-02") "author" (dict "@type" "Person" "name" .Site.Title "url" .Site.Home.Permalink) "image" ($ogimg | absURL) "url" .Permalink "mainEntityOfPage" .Permalink }}
+  {{ $ld := dict "@context" "https://schema.org" "@type" "BlogPosting" "headline" .Title "description" $desc "datePublished" (.Date.Format "2006-01-02") "dateModified" (.Lastmod.Format "2006-01-02") "author" (dict "@type" "Person" "name" .Site.Title "url" .Site.Home.Permalink) "image" ($ogimg | absURL) "url" .Permalink "mainEntityOfPage" .Permalink }}
   <script type="application/ld+json">{{ $ld | jsonify | safeJS }}</script>
   {{ end }}{{ end }}
   <link rel="icon" type="image/webp" href="{{ "favicon.webp" | relURL }}">
