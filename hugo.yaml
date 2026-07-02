@@ -19,7 +19,7 @@ params:
   # subscribe box on. Find it in Kit: Grow -> Landing Pages & Forms -> your form
   # -> the number in the URL (app.kit.com/forms/XXXXXXX). Leave empty to hide.
   newsletter:
-    kitFormId: ""
+    kitFormId: "9636496"
     heading: "Get new essays in your inbox"
     blurb: "A new essay most days on focus, self-respect, and living deliberately. No spam. Unsubscribe anytime."
     button: "Subscribe"
