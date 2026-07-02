@@ -46,6 +46,10 @@ params:
       url: "https://www.latracal.com/"
       desc: "latracal.com"
       logo: "/images/logos/latracal.png"
+    - name: "Stuff To Do Near Me"
+      url: "https://www.stufftodonearme.com/"
+      desc: "City guides, local activity ideas, and trip-planning tools"
+      logo: "/images/logos/stufftodonearme.png"
 
 menu:
   main:
