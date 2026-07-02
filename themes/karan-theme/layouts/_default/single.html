@@ -1,9 +1,14 @@
 {{ define "main" }}
 <article class="post">
+  <a class="back-link" href="{{ "/" | relURL }}">&#8592; All essays</a>
   <h1>{{ .Title }}</h1>
-  <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "02/01/2006" }}</time>
+  <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
   <div class="post-content">
     {{ .Content }}
+  </div>
+  <div class="post-footer">
+    <a class="back-link" href="{{ "/" | relURL }}">&#8592; All essays</a>
+    {{ partial "socials.html" . }}
   </div>
 </article>
 {{ end }}
