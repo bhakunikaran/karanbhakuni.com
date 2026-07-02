@@ -52,6 +52,15 @@ a:hover { text-decoration: underline; }
 main.wrap { padding-top: 48px; padding-bottom: 64px; min-height: 60vh; }
 
 .hero { margin-bottom: 48px; }
+.hero .avatar {
+  display: block;
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 20px;
+  border: 1px solid var(--border);
+}
 .hero h1 { font-size: 2.2rem; margin-bottom: 8px; }
 .hero .tagline { color: var(--muted); font-size: 1.2rem; margin: 0; }
 
@@ -136,9 +145,21 @@ main.wrap { padding-top: 48px; padding-bottom: 64px; min-height: 60vh; }
   margin: 0 0 8px;
 }
 .project-list { list-style: none; padding: 0; margin: 0; }
-.project-list li { padding: 14px 0; border-bottom: 1px solid var(--border); }
+.project-list li {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 14px 0;
+  border-bottom: 1px solid var(--border);
+}
+.project-list .project-logo {
+  width: 20px;
+  height: 20px;
+  border-radius: 4px;
+  flex: none;
+}
 .project-list a { font-size: 1.1rem; color: var(--text); font-weight: 600; }
-.project-list .desc { color: var(--muted); font-size: 0.95rem; margin-left: 8px; }
+.project-list .desc { color: var(--muted); font-size: 0.95rem; }
 
 .site-footer {
   border-top: 1px solid var(--border);

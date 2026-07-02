@@ -1,5 +1,8 @@
 {{ define "main" }}
 <section class="hero">
+  {{ with .Site.Params.profileImage }}
+  <img class="avatar" src="{{ . | relURL }}" alt="{{ $.Site.Title }}" width="120" height="120">
+  {{ end }}
   <h1>{{ .Site.Title }}</h1>
   <p class="tagline">{{ .Site.Params.tagline }}</p>
 </section>
@@ -10,6 +13,7 @@
   <ul class="project-list">
     {{ range . }}
     <li>
+      {{ with .logo }}<img class="project-logo" src="{{ . | relURL }}" alt="" width="20" height="20" loading="lazy">{{ end }}
       <a href="{{ .url }}" target="_blank" rel="noopener">{{ .name }}</a>
       {{ with .desc }}<span class="desc">{{ . }}</span>{{ end }}
     </li>

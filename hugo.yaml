@@ -19,22 +19,28 @@ params:
   linkedin: "https://www.linkedin.com/in/bhakunikaran"
   instagram: "https://www.instagram.com/karanlogs"
   reddit: "https://www.reddit.com/user/bhakunikaran/"
+  profileImage: "/images/karan.jpg"
   projects:
     - name: "Poper"
       url: "https://www.poper.ai/"
       desc: "AI-powered smart popups & widgets for smart sites"
+      logo: "/images/logos/poper.png"
     - name: "Grigora"
       url: "https://grigora.co/"
       desc: "Start a blog, build a website — a WordPress alternative"
+      logo: "/images/logos/grigora.png"
     - name: "SaveSaas"
       url: "https://www.savesaas.com/"
       desc: "Find the best SaaS products"
+      logo: "/images/logos/savesaas.png"
     - name: "PythonPool"
       url: "https://www.pythonpool.com/"
       desc: "Python tutorials & guides"
+      logo: "/images/logos/pythonpool.png"
     - name: "Latracal"
       url: "https://www.latracal.com/"
       desc: "latracal.com"
+      logo: "/images/logos/latracal.png"
 
 menu:
   main:
