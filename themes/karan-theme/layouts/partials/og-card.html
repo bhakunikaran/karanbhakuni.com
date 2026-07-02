@@ -1,0 +1,25 @@
+{{- /* Generates a per-essay Open Graph card by overlaying the title on og-base.png. Returns the card's absolute URL. */ -}}
+{{- $font := resources.Get "fonts/Fraunces.ttf" -}}
+{{- $base := resources.Get "og-base.png" -}}
+{{- $t := .Title -}}
+{{- $len := len $t -}}
+{{- $size := 66 -}}{{- $wrap := 20 -}}
+{{- if gt $len 40 }}{{ $size = 56 }}{{ $wrap = 24 }}{{ end -}}
+{{- if gt $len 75 }}{{ $size = 46 }}{{ $wrap = 30 }}{{ end -}}
+{{- if gt $len 110 }}{{ $size = 40 }}{{ $wrap = 35 }}{{ end -}}
+{{- $lines := slice -}}
+{{- $cur := "" -}}
+{{- range (split $t " ") -}}
+  {{- $try := cond (eq $cur "") . (printf "%s %s" $cur .) -}}
+  {{- if gt (len $try) $wrap -}}
+    {{- $lines = $lines | append $cur -}}
+    {{- $cur = . -}}
+  {{- else -}}
+    {{- $cur = $try -}}
+  {{- end -}}
+{{- end -}}
+{{- $lines = $lines | append $cur -}}
+{{- $wrapped := delimit $lines "\n" -}}
+{{- $opts := dict "color" "#221e18" "size" $size "x" 84 "y" 158 "linespacing" 14 "font" $font -}}
+{{- $img := $base.Filter (images.Text $wrapped $opts) -}}
+{{- return $img.Permalink -}}

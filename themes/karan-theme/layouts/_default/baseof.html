@@ -14,12 +14,15 @@
   <meta property="og:url" content="{{ .Permalink }}">
   <meta property="og:site_name" content="{{ .Site.Title }}">
   <meta property="og:description" content="{{ $desc }}">
-  {{ $ogimg := .Site.Params.profileImage }}{{ with .Params.image }}{{ $ogimg = . }}{{ end }}
-  {{ with $ogimg }}<meta property="og:image" content="{{ . | absURL }}">{{ end }}
-  <meta name="twitter:card" content="summary">
+  {{ $ogimg := .Site.Params.profileImage | absURL }}{{ $twcard := "summary" }}
+  {{ with .Params.image }}{{ $ogimg = . | absURL }}{{ end }}
+  {{ if and .IsPage (eq .Section "posts") }}{{ $ogimg = partial "og-card.html" . }}{{ $twcard = "summary_large_image" }}{{ end }}
+  {{ with $ogimg }}<meta property="og:image" content="{{ . }}">{{ end }}
+  <meta name="twitter:card" content="{{ $twcard }}">
+  <meta name="twitter:image" content="{{ $ogimg }}">
   {{ with .Site.Params.twitter }}<meta name="twitter:site" content="@{{ path.Base . }}">{{ end }}
   {{ if not .IsHome }}{{ if eq .Section "posts" }}
-  {{ $ld := dict "@context" "https://schema.org" "@type" "BlogPosting" "headline" .Title "description" $desc "datePublished" (.Date.Format "2006-01-02") "dateModified" (.Lastmod.Format "2006-01-02") "author" (dict "@type" "Person" "name" .Site.Title "url" .Site.Home.Permalink) "image" ($ogimg | absURL) "url" .Permalink "mainEntityOfPage" .Permalink }}
+  {{ $ld := dict "@context" "https://schema.org" "@type" "BlogPosting" "headline" .Title "description" $desc "datePublished" (.Date.Format "2006-01-02") "dateModified" (.Lastmod.Format "2006-01-02") "author" (dict "@type" "Person" "name" .Site.Title "url" .Site.Home.Permalink) "image" $ogimg "url" .Permalink "mainEntityOfPage" .Permalink }}
   <script type="application/ld+json">{{ $ld | jsonify | safeJS }}</script>
   {{ end }}{{ end }}
   <link rel="icon" type="image/webp" href="{{ "favicon.webp" | relURL }}">

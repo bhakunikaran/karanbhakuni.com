@@ -3,6 +3,11 @@ languageCode: "en-us"
 title: "Karan Bhakuni"
 theme: "karan-theme"
 
+# No tags/categories are used, so don't generate (or index) empty taxonomy pages.
+disableKinds:
+  - taxonomy
+  - term
+
 pagination:
   pagerSize: 20
 
