@@ -1,14 +1,33 @@
 {{ define "main" }}
+<div class="read-progress"><span id="readbar"></span></div>
 <article class="post">
   <a class="back-link" href="{{ "/" | relURL }}">&#8592; All essays</a>
   <h1>{{ .Title }}</h1>
-  <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+  <div class="post-meta">
+    <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+    <span class="dot">&middot;</span>
+    <span>{{ .ReadingTime }} min read</span>
+  </div>
   <div class="post-content">
     {{ .Content }}
   </div>
+
+  {{ $older := .PrevInSection }}{{ $newer := .NextInSection }}
+  {{ if or $older $newer }}
+  <nav class="post-nav">
+    <div class="post-nav-item prev">
+      {{ with $older }}<a href="{{ .Permalink }}"><span class="post-nav-label">&#8592; Older</span><span class="post-nav-title">{{ .Title }}</span></a>{{ end }}
+    </div>
+    <div class="post-nav-item next">
+      {{ with $newer }}<a href="{{ .Permalink }}"><span class="post-nav-label">Newer &#8594;</span><span class="post-nav-title">{{ .Title }}</span></a>{{ end }}
+    </div>
+  </nav>
+  {{ end }}
+
   <div class="post-footer">
     <a class="back-link" href="{{ "/" | relURL }}">&#8592; All essays</a>
     {{ partial "socials.html" . }}
   </div>
 </article>
+<script>(function(){var b=document.getElementById('readbar');if(!b)return;var h=document.documentElement;function u(){var max=h.scrollHeight-h.clientHeight;b.style.width=(max>0?(h.scrollTop/max*100):0)+'%';}addEventListener('scroll',u,{passive:true});addEventListener('resize',u,{passive:true});u();})();</script>
 {{ end }}
