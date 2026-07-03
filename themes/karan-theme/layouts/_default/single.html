@@ -8,6 +8,7 @@
     <span class="dot">&middot;</span>
     <span>{{ .ReadingTime }} min read</span>
   </div>
+  {{ with .Params.image }}<img class="post-hero" src="{{ . | relURL }}" alt="{{ $.Title }}" width="1200" height="630">{{ end }}
   <div class="post-content">
     {{ .Content }}
   </div>
