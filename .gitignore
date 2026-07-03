@@ -4,3 +4,6 @@ resources/
 .DS_Store
 
 .claude/
+
+# Private scratch space — write drafts here; nothing in this folder is ever pushed.
+drafts/
