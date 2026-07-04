@@ -27,6 +27,23 @@
 </section>
 {{ end }}
 
+{{ $thoughts := where .Site.RegularPages "Section" "thoughts" }}
+{{ with $thoughts }}
+<section class="home-thoughts">
+  <h2 class="section-label">Thoughts</h2>
+  <div class="thought-feed compact">
+    {{ range first 3 (.ByDate.Reverse) }}
+    <article class="thought">
+      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
+      {{ if .Title }}<h3 class="thought-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>{{ end }}
+      <div class="thought-body">{{ .Summary }}</div>
+    </article>
+    {{ end }}
+  </div>
+  <a class="see-all" href="{{ "/thoughts/" | relURL }}">All thoughts &#8594;</a>
+</section>
+{{ end }}
+
 <section class="essays">
   <h2 class="section-label">Essays</h2>
   {{ $posts := where .Site.RegularPages "Section" "posts" }}

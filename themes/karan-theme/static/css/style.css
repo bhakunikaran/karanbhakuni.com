@@ -387,6 +387,45 @@ main.wrap { padding-top: 40px; padding-bottom: 72px; min-height: 60vh; }
 .page-title { font-family: var(--display); font-weight: 600; font-size: 2.2rem; margin: 0 0 28px; letter-spacing: -0.02em; }
 .pager { display: flex; justify-content: space-between; font-family: var(--sans); font-size: 0.92rem; margin-top: 32px; }
 
+/* ---------- Thoughts / journal ---------- */
+.home-thoughts { margin-bottom: 56px; }
+.thoughts-page .thoughts-intro { color: var(--muted); font-size: 1.08rem; max-width: 60ch; margin: 0 0 34px; }
+.thought-feed { }
+.thought {
+  padding: 24px 0;
+  border-top: 1px solid var(--line);
+}
+.thought:first-child { border-top: none; padding-top: 4px; }
+.thought > time {
+  display: block;
+  font-family: var(--sans);
+  color: var(--faint);
+  font-size: 0.82rem;
+  margin-bottom: 6px;
+}
+.thought-title { font-family: var(--display); font-size: 1.3rem; font-weight: 600; margin: 0 0 8px; line-height: 1.25; }
+.thought-title a { color: var(--ink); }
+.thought-title a:hover { color: var(--accent); }
+.thought-body {
+  font-family: var(--display);
+  color: var(--reading);
+  line-height: 1.7;
+  font-size: 1.12rem;
+}
+.thought-body p { margin: 0 0 0.7em; }
+.thought-body p:last-child { margin-bottom: 0; }
+.home-thoughts .thought-feed.compact .thought { padding: 16px 0; }
+.home-thoughts .thought-title { font-size: 1.12rem; }
+.home-thoughts .thought-body { font-size: 1rem; }
+.see-all {
+  display: inline-block;
+  margin-top: 12px;
+  padding: 8px 0;
+  font-family: var(--sans);
+  font-weight: 600;
+  font-size: 0.9rem;
+}
+
 /* ---------- Newsletter ---------- */
 .newsletter {
   scroll-margin-top: 84px;

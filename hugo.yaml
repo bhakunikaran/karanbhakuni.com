@@ -73,6 +73,9 @@ menu:
     - name: "Essays"
       url: "/posts/"
       weight: 2
+    - name: "Thoughts"
+      url: "/thoughts/"
+      weight: 3
 
 markup:
   goldmark:
