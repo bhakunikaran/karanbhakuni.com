@@ -490,7 +490,12 @@ main.wrap { padding-top: 40px; padding-bottom: 72px; min-height: 60vh; }
     gap: 8px 16px;
   }
   .site-header nav a { margin-left: 0; }
-  .hero { padding-top: 28px; }
+  .hero { padding: 18px 0 26px; margin-bottom: 32px; }
+  .hero .avatar { width: 96px; height: 96px; margin-bottom: 16px; }
+  .hero-name { font-size: 2.05rem; margin-bottom: 8px; }
+  .hero .tagline { font-size: 1.12rem; margin-bottom: 12px; }
+  .hero .bio { font-size: 0.95rem; line-height: 1.55; max-width: none; margin-bottom: 20px; }
+  .section-label { margin-bottom: 14px; }
   .post-content { font-size: 1.1rem; }
   .year-group { grid-template-columns: 1fr; gap: 4px; }
   .year { position: static; padding-top: 0; margin-bottom: 4px; }
@@ -505,8 +510,9 @@ main.wrap { padding-top: 40px; padding-bottom: 72px; min-height: 60vh; }
 /* Very small phones */
 @media (max-width: 380px) {
   .wrap { padding: 0 16px; }
-  .hero-name { font-size: 2rem; }
-  .hero .avatar { width: 104px; height: 104px; }
+  .hero-name { font-size: 1.9rem; }
+  .hero .avatar { width: 88px; height: 88px; }
+  .hero .bio { font-size: 0.92rem; }
   .site-header nav { gap: 6px 12px; }
   .site-header nav a { font-size: 0.86rem; }
   .site-header nav a.nav-cta { padding: 8px 14px; }
