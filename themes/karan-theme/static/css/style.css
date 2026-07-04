@@ -114,18 +114,6 @@ img { max-width: 100%; }
 [data-theme="dark"] .theme-toggle .icon-moon { display: none; }
 [data-theme="dark"] .theme-toggle .icon-sun { display: block; }
 
-/* hamburger (mobile only) */
-.menu-toggle {
-  display: none;
-  width: 42px; height: 42px;
-  align-items: center; justify-content: center;
-  margin-left: 4px;
-  border: none; background: transparent; color: var(--ink); cursor: pointer;
-  -webkit-tap-highlight-color: transparent;
-}
-.menu-toggle .icon-close { display: none; }
-body.nav-open .menu-toggle .icon-menu { display: none; }
-body.nav-open .menu-toggle .icon-close { display: block; }
 
 /* reading progress */
 .read-progress { position: fixed; top: 0; left: 0; right: 0; height: 3px; z-index: 30; background: transparent; }
@@ -486,39 +474,25 @@ main.wrap { padding-top: 40px; padding-bottom: 72px; min-height: 60vh; }
 @media (max-width: 640px) {
   body { font-size: 17px; }
   .wrap { padding: 0 20px; }
-  .menu-toggle { display: inline-flex; }
-  .site-header .wrap { height: 58px; }
-  .site-header .theme-toggle { margin-left: auto; }
+  .site-header .wrap {
+    position: relative;
+    flex-wrap: wrap;
+    height: auto;
+    row-gap: 12px;
+    padding-top: 14px;
+    padding-bottom: 12px;
+    justify-content: center;
+  }
+  .site-header .brand { flex-basis: 100%; text-align: center; }
+  .site-header .theme-toggle { position: absolute; top: 12px; right: 0; margin: 0; }
   .site-header nav {
-    position: absolute;
-    top: 100%; left: 0; right: 0;
-    z-index: 25;
-    display: none;
-    flex-direction: column;
-    align-items: stretch;
-    margin: 0;
-    padding: 4px 20px 14px;
-    background: var(--bg);
-    border-bottom: 1px solid var(--line);
-    box-shadow: 0 14px 30px var(--shadow);
-    gap: 0;
-  }
-  body.nav-open .site-header nav { display: flex; }
-  .site-header nav a {
+    flex-basis: 100%;
+    justify-content: center;
+    gap: 8px 18px;
     margin-left: 0;
-    padding: 14px 2px;
-    font-size: 1.02rem;
-    color: var(--ink);
-    border-top: 1px solid var(--line);
   }
-  .site-header nav a:first-child { border-top: none; }
-  .site-header nav a.nav-cta {
-    margin-top: 14px;
-    padding: 13px;
-    text-align: center;
-    border-top: none;
-    color: #fff;
-  }
+  .site-header nav a { margin-left: 0; }
+  .site-header nav a.nav-cta { padding: 9px 17px; }
   .hero { padding: 18px 0 26px; margin-bottom: 32px; }
   .hero .avatar { width: 96px; height: 96px; margin-bottom: 16px; }
   .hero-name { font-size: 2.05rem; margin-bottom: 8px; }
