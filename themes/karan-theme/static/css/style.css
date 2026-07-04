@@ -68,7 +68,6 @@ img { max-width: 100%; }
 }
 .site-header .wrap {
   display: flex;
-  justify-content: space-between;
   align-items: center;
   height: 62px;
 }
@@ -81,7 +80,7 @@ img { max-width: 100%; }
   white-space: nowrap;
   flex: none;
 }
-.site-header nav { flex-wrap: wrap; justify-content: flex-end; }
+.site-header nav { display: flex; align-items: center; flex-wrap: wrap; justify-content: flex-end; margin-left: auto; }
 .site-header nav a {
   margin-left: 26px;
   color: var(--muted);
@@ -469,16 +468,22 @@ main.wrap { padding-top: 40px; padding-bottom: 72px; min-height: 60vh; }
   body { font-size: 17px; }
   .wrap { padding: 0 20px; }
   .site-header .wrap {
-    flex-direction: column;
+    flex-wrap: wrap;
     height: auto;
-    gap: 10px;
+    row-gap: 10px;
     padding-top: 12px;
     padding-bottom: 12px;
   }
-  .site-header nav { justify-content: center; gap: 8px 13px; }
-  .site-header nav a { margin-left: 0; font-size: 0.9rem; }
-  .site-header nav a.nav-cta { padding: 6px 13px; }
-  .theme-toggle { margin-left: 0; width: 32px; height: 32px; }
+  .site-header .brand { order: 0; }
+  .site-header .theme-toggle { order: 1; margin-left: auto; }
+  .site-header nav {
+    order: 2;
+    flex-basis: 100%;
+    margin-left: 0;
+    justify-content: center;
+    gap: 8px 16px;
+  }
+  .site-header nav a { margin-left: 0; }
   .hero { padding-top: 28px; }
   .post-content { font-size: 1.1rem; }
   .year-group { grid-template-columns: 1fr; gap: 4px; }
