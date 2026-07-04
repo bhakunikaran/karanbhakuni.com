@@ -82,17 +82,19 @@ img { max-width: 100%; }
 }
 .site-header nav { display: flex; align-items: center; flex-wrap: wrap; justify-content: flex-end; margin-left: auto; }
 .site-header nav a {
-  margin-left: 26px;
+  margin-left: 22px;
+  padding: 8px 2px;
   color: var(--muted);
   font-size: 0.92rem;
   font-weight: 500;
+  -webkit-tap-highlight-color: transparent;
 }
 .site-header nav a:hover, .site-header nav a.active { color: var(--ink); }
 .site-header nav { display: flex; align-items: center; }
 .site-header nav a.nav-cta {
   color: #fff;
   background: var(--accent);
-  padding: 7px 15px;
+  padding: 9px 17px;
   border-radius: 999px;
   font-weight: 600;
   transition: background .18s ease, transform .18s ease;
@@ -100,10 +102,11 @@ img { max-width: 100%; }
 .site-header nav a.nav-cta:hover { color: #fff; background: var(--accent-ink); transform: translateY(-1px); }
 .theme-toggle {
   margin-left: 22px;
-  width: 34px; height: 34px;
+  width: 40px; height: 40px;
   display: inline-flex; align-items: center; justify-content: center;
   border: 1px solid var(--line); border-radius: 999px;
   background: transparent; color: var(--muted); cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
   transition: color .18s ease, border-color .18s ease, background .18s ease;
 }
 .theme-toggle:hover { color: var(--accent); border-color: var(--line-strong); }
@@ -157,15 +160,16 @@ main.wrap { padding-top: 40px; padding-bottom: 72px; min-height: 60vh; }
 }
 
 /* ---------- Socials ---------- */
-.socials { display: flex; gap: 6px; justify-content: center; align-items: center; flex-wrap: wrap; }
+.socials { display: flex; gap: 4px; justify-content: center; align-items: center; flex-wrap: wrap; }
 .socials a {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  width: 40px; height: 40px;
+  width: 44px; height: 44px;
   border-radius: 999px;
   color: var(--muted);
   border: 1px solid transparent;
+  -webkit-tap-highlight-color: transparent;
   transition: color .18s ease, background .18s ease, border-color .18s ease, transform .18s ease;
 }
 .socials a:hover {
@@ -275,7 +279,8 @@ main.wrap { padding-top: 40px; padding-bottom: 72px; min-height: 60vh; }
   font-size: 0.88rem;
   font-weight: 500;
   color: var(--muted);
-  margin-bottom: 26px;
+  margin-bottom: 20px;
+  padding: 6px 0;
 }
 .back-link:hover { color: var(--accent); }
 .post h1 {
@@ -413,7 +418,8 @@ main.wrap { padding-top: 40px; padding-bottom: 72px; min-height: 60vh; }
 .home-thoughts .thought-body { font-size: 1rem; }
 .see-all {
   display: inline-block;
-  margin-top: 16px;
+  margin-top: 12px;
+  padding: 8px 0;
   font-family: var(--sans);
   font-weight: 600;
   font-size: 0.9rem;
@@ -488,9 +494,26 @@ main.wrap { padding-top: 40px; padding-bottom: 72px; min-height: 60vh; }
   .post-content { font-size: 1.1rem; }
   .year-group { grid-template-columns: 1fr; gap: 4px; }
   .year { position: static; padding-top: 0; margin-bottom: 4px; }
-  .post-list li { gap: 12px; }
+  .post-list li { gap: 12px; padding: 11px 0; }
+  .project-list li { padding: 16px 14px; }
   .post-footer { flex-direction: column; align-items: flex-start; }
   .post-footer .socials { justify-content: flex-start; }
   .post-nav { grid-template-columns: 1fr; }
   .post-nav-item.next, .post-nav-item.next a { text-align: left; }
+}
+
+/* Very small phones */
+@media (max-width: 380px) {
+  .wrap { padding: 0 16px; }
+  .hero-name { font-size: 2rem; }
+  .hero .avatar { width: 104px; height: 104px; }
+  .site-header nav { gap: 6px 12px; }
+  .site-header nav a { font-size: 0.86rem; }
+  .site-header nav a.nav-cta { padding: 8px 14px; }
+  .nl-heading { font-size: 1.3rem; }
+}
+
+/* Tablets and up: a touch more breathing room */
+@media (min-width: 900px) {
+  main.wrap { padding-top: 52px; }
 }
