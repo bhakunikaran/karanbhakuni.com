@@ -113,6 +113,7 @@ img { max-width: 100%; }
 .theme-toggle .icon-sun { display: none; }
 [data-theme="dark"] .theme-toggle .icon-moon { display: none; }
 [data-theme="dark"] .theme-toggle .icon-sun { display: block; }
+.menu-toggle { display: none; }
 
 
 /* reading progress */
@@ -476,26 +477,51 @@ main.wrap { padding-top: 40px; padding-bottom: 72px; min-height: 60vh; }
   .wrap { padding: 0 20px; }
   .site-header .wrap {
     position: relative;
-    flex-wrap: wrap;
-    height: auto;
-    row-gap: 6px;
-    padding-top: 10px;
-    padding-bottom: 8px;
-    justify-content: center;
+    flex-wrap: nowrap;
+    height: 56px;
+    justify-content: space-between;
   }
-  .site-header .brand { flex-basis: 100%; text-align: center; font-size: 1.05rem; }
+  .site-header .brand { flex-basis: auto; text-align: left; font-size: 1.08rem; }
   .site-header .theme-toggle {
-    position: absolute; top: 8px; right: 0; margin: 0;
+    position: static; margin: 0 8px 0 auto;
     width: 34px; height: 34px;
   }
-  .site-header nav {
-    flex-basis: 100%;
-    justify-content: center;
-    gap: 5px 12px;
-    margin-left: 0;
+  .site-header .menu-toggle {
+    display: inline-flex; align-items: center; justify-content: center;
+    width: 34px; height: 34px;
+    border: 1px solid var(--line); border-radius: 999px;
+    background: transparent; color: var(--muted); cursor: pointer;
+    -webkit-tap-highlight-color: transparent;
   }
-  .site-header nav a { margin-left: 0; padding: 4px 2px; font-size: 0.86rem; }
-  .site-header nav a.nav-cta { padding: 6px 13px; font-size: 0.86rem; }
+  .site-header .menu-toggle .icon-close { display: none; }
+  .site-header.nav-open .menu-toggle .icon-hamburger { display: none; }
+  .site-header.nav-open .menu-toggle .icon-close { display: block; }
+  .site-header nav {
+    display: none;
+    position: absolute;
+    top: 100%; left: 0; right: 0;
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0;
+    margin-left: 0;
+    background: var(--bg);
+    border-bottom: 1px solid var(--line);
+    padding: 6px 20px 18px;
+    box-shadow: 0 16px 28px var(--shadow);
+  }
+  .site-header.nav-open nav { display: flex; }
+  .site-header nav a {
+    margin-left: 0;
+    padding: 14px 4px;
+    font-size: 1.02rem;
+    border-bottom: 1px solid var(--line);
+  }
+  .site-header nav a.nav-cta {
+    margin-top: 12px;
+    padding: 12px 17px;
+    text-align: center;
+    border-bottom: none;
+  }
   .hero { padding: 18px 0 26px; margin-bottom: 32px; }
   .hero .avatar { width: 96px; height: 96px; margin-bottom: 16px; }
   .hero-name { font-size: 2.05rem; margin-bottom: 8px; }
