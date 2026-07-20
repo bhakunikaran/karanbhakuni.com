@@ -5,7 +5,7 @@ description: "Ten thousand Instagram followers in under 45 days, a 120 day writi
 slug: "success-was-never-about-luck-it-was-about-the-day-i-didnt-skip"
 ---
 
-Recently I hit ten thousand followers on Instagram. I thought it would take six months, maybe a year. It took me under forty five days.
+Recently I started a new Instagram account and hit ten thousand followers on it. I thought it would take six months, maybe a year. It took me under forty five days.
 
 I started by posting every alternate day. Then one of my reels went viral. After that I started posting twice a day, every single day, without skipping. Even when I was traveling. Even when I had urgent work or home stuff going on. I never skipped a single day.
 
