@@ -33,7 +33,7 @@ None of these are stories about talent. They are stories about showing up on the
 
 Right now I am building Flyn. For the last sixty days I have been consistent, shipping three days a week and marketing it four days a week, aiming for my first one thousand dollars in monthly recurring revenue.
 
-Right now Flyn is at one hundred and seventy five dollars MRR. Not the number I want. But that is the honest number today, and I would rather write that down than round it up.
+Right now Flyn is at one hundred and seventy five dollars in monthly recurring revenue. Not the number I want. But that is the honest number today, and I would rather write that down than round it up.
 
 Whether it is Sunday or Monday or any other day, I do not stop showing up. That is the whole rule for me.
 
