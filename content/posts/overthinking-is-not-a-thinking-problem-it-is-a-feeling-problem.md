@@ -1,6 +1,6 @@
 ---
 title: "Overthinking Is Not a Thinking Problem, It Is a Feeling Problem"
-date: "2026-07-20"
+date: "2026-07-12"
 description: "Overthinking is not a fault in the wiring. It is the mind circling a feeling it is not ready to lie down in. A personal essay on why replaying, analyzing, and re-analyzing is often just delay."
 slug: "overthinking-is-not-a-thinking-problem-it-is-a-feeling-problem"
 ---

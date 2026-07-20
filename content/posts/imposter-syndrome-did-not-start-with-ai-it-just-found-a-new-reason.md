@@ -1,6 +1,6 @@
 ---
 title: "Imposter Syndrome Did Not Start With AI, It Just Found a New Reason"
-date: "2026-07-20"
+date: "2026-07-06"
 description: "Imposter syndrome didn't start with AI, it just found a faster, quieter reason. A personal essay on feeling like a fraud when the machine does the work too well."
 slug: "imposter-syndrome-did-not-start-with-ai-it-just-found-a-new-reason"
 ---

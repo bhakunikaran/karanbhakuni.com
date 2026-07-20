@@ -1,6 +1,6 @@
 ---
 title: "Choosing to Be Alone Is Not Peace, It Is Postponement"
-date: "2026-07-20"
+date: "2026-07-10"
 description: "Solitude and productivity can both be a philosophy fear builds to hide inside. A personal essay on telling real peace apart from a well defended fear of being found."
 slug: "choosing-to-be-alone-is-not-peace-it-is-postponement"
 ---

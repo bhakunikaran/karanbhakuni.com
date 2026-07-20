@@ -1,6 +1,6 @@
 ---
 title: "The One Who Forgives First Is Not the Weaker One, They Are the One Who Remembers More"
-date: "2026-07-20"
+date: "2026-07-14"
 description: "Always being the one who reaches out first after a fight is not weakness. A personal essay on the fear, love, and memory behind the pattern of forgiving first."
 slug: "the-one-who-forgives-first-is-not-the-weaker-one-they-are-the-one-who-remembers-more"
 ---
