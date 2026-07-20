@@ -35,9 +35,9 @@ Right now I am building Flyn. For the last sixty days I have been consistent, sh
 
 Right now Flyn is at one hundred and seventy five dollars in monthly recurring revenue. Not the number I want. But that is the honest number today, and I would rather write that down than round it up.
 
-Whether it is Sunday or Monday or any other day, I do not stop showing up. That is the whole rule for me.
+**Whether it is Sunday or Monday or any other day, I do not stop showing up. That is the whole rule for me.**
 
-When Flyn crosses one thousand dollars, I will come back and write the next part of this.
+When Flyn crosses $1,000, I will come back and write the next part of this.
 
 Aristotle wrote something I keep coming back to, in the Nicomachean Ethics.
 
