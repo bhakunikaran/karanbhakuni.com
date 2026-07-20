@@ -31,7 +31,7 @@ Cristiano Ronaldo lost his father to alcohol and has barely touched a drink sinc
 
 None of these are stories about talent. They are stories about showing up on the day you had every excuse not to.
 
-Right now I am building Flyn. For the last sixty days I have been consistent, shipping three days a week and marketing it four days a week, aiming for my first $1000 in monthly recurring revenue.
+Right now I am building [Flyn](https://flyn.to/). For the last sixty days I have been consistent, shipping three days a week and marketing it four days a week, aiming for my first $1000 in monthly recurring revenue.
 
 Right now Flyn is at $175 in monthly recurring revenue. Not the number I want. But that is the honest number today, and I would rather write that down than round it up.
 
