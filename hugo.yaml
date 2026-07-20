@@ -41,7 +41,7 @@ params:
       desc: "Turn long videos into platform-ready clips"
       logo: "/images/logos/smoothclip.png"
     - name: "Flyn"
-      url: "https://flyn.to/"
+      url: "https://www.flyn.to"
       desc: "Branded short links and click analytics"
       logo: "/images/logos/flyn.png"
     - name: "Poper"
