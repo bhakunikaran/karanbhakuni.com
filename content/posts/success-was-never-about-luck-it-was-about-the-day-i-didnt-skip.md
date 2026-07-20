@@ -1,6 +1,6 @@
 ---
 title: "Success Was Never About Luck, It Was About the Day I Didn't Skip"
-date: "2026-07-06"
+date: "2026-07-20"
 description: "Ten thousand Instagram followers in under 45 days, a 120 day writing streak, and a lesson from Virat Kohli and Aristotle: for me, nothing has ever worked except consistency."
 slug: "success-was-never-about-luck-it-was-about-the-day-i-didnt-skip"
 ---
