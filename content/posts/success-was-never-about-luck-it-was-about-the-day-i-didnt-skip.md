@@ -5,7 +5,7 @@ description: "Ten thousand Instagram followers in under 45 days, a 120 day writi
 slug: "success-was-never-about-luck-it-was-about-the-day-i-didnt-skip"
 ---
 
-Nobody tells you that the hardest thirty seconds of any streak are the ones where nothing bad has happened yet. Nothing is broken, you are just tired or busy or pulled in another direction, and the small stupid task in front of you starts negotiating for its life. I have lived that thirty seconds more times this year than I can count, and I am writing this down so it is waiting for me the next time I am standing at that exact edge, deciding whether today is the day I let myself off the hook.
+Every streak tests you the same way. Not with a crisis. With an ordinary day. You are tired, or busy, or your mind is somewhere else, and the small task in front of you quietly asks to be skipped, just this once. I have faced that exact moment more times this year than I can count. I am writing this down so it is waiting for me the next time I am standing there, deciding if today is the day I let myself off the hook.
 
 Forty five days ago I had zero followers on Instagram. I expected it to take six months, maybe a year, to build something real, so I started slow, posting every alternate day, the kind of pace that felt sustainable and safe. Then one reel went unexpectedly viral, and the decision that actually mattered had nothing to do with the reel itself. I committed to posting twice a day, every day, no exceptions, including the days I was traveling and the days something urgent was pulling at me from work or from home. I did not skip once. Under forty five days later I had ten thousand followers, and the word people keep using in the comments is lucky.
 
