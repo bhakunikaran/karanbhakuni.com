@@ -5,128 +5,46 @@ description: "Ten thousand Instagram followers in under 45 days, a 120 day writi
 slug: "success-was-never-about-luck-it-was-about-the-day-i-didnt-skip"
 ---
 
-Every streak tests you the same way.
+Recently I hit ten thousand followers on Instagram. I thought it would take six months, maybe a year. It took me under forty five days.
 
-Not with a crisis.
+I started by posting every alternate day. Then one of my reels went viral. After that I started posting twice a day, every single day, without skipping. Even when I was traveling. Even when I had urgent work or home stuff going on. I never skipped a single day.
 
-With an ordinary day.
+People keep calling it luck. It is not luck. I got lucky once, the day that reel went viral. Everything after that was just me posting twice a day, every day, for forty five days straight.
 
-You are tired, or busy, or your mind is somewhere else, and the small task in front of you quietly asks to be skipped. Just this once.
+Consistency is the king. That is what I keep learning, over and over, in every part of my life.
 
-I have stood in that exact moment more times this year than I can count.
+I once wrote every single day for more than one hundred and twenty days for my blog. I do not remember most of what I wrote. I just remember showing up.
 
-I am writing this down so it is waiting for me the next time I am standing there, deciding if today is the day I let myself off the hook.
+In college I prepared so hard for debates that I became one of the best debaters there. Not because I was naturally good at it. Because I practiced the same arguments again and again until they became automatic.
 
-Forty five days ago I started a new Instagram account. Zero followers. Zero history. Nothing to lean on except whatever I posted that day.
+My weight was around seventy seven kilos. I started doing yoga consistently and brought it down to around sixty four, sixty five kilos. Not through some crash diet. Just by not skipping sessions.
 
-I expected it to take six months, maybe a year, to build something real. So I started slow. Posting every alternate day. The kind of pace that felt sustainable and safe.
+But I have not always been consistent. I have failed at this many times. I tried building a personal brand multiple times and dropped it. I thought about podcasting and never did anything with it. I started writing a book and stopped after one or two chapters. It is still sitting unfinished.
 
-Then one reel went unexpectedly viral.
+This is not me saying I am a disciplined person. I am not, most of the time. This is me saying the few times I actually showed up every single day, without skipping, are the only times anything actually worked for me. Not hard work in bursts. Not going high for a few days and then dropping off. That never works for me.
 
-And the decision that actually mattered had nothing to do with the reel itself.
+Even the greats do this. Virat Kohli was eighteen years old, playing a Ranji Trophy match for Delhi against Karnataka in December 2006. His father died overnight. He came back the next morning and batted, scored ninety runs, helped his team avoid the follow on, and only left for the funeral that evening. Nobody would have blamed him for not showing up. He showed up anyway.
 
-I committed to posting twice a day, every day, no exceptions. Including the days I was traveling. Including the days something urgent was pulling at me from work or from home.
+Jiro Ono has run the same sushi restaurant in Tokyo for around six decades. One of his apprentices reportedly had to remake the same egg sushi over two hundred times before Jiro approved it. That is not talent. That is consistency, taken to an extreme.
 
-I did not skip once.
+Cristiano Ronaldo lost his father to alcohol and has barely touched a drink since, decades of discipline, on and off the field.
 
-Under forty five days later I had ten thousand followers, and the word people keep using in the comments is lucky.
+None of these are stories about talent. They are stories about showing up on the day you had every excuse not to.
 
-I used to let that slide because arguing back felt like bragging.
+Right now I am building Flyn. For the last sixty days I have been consistent, shipping three days a week and marketing it four days a week, aiming for my first one thousand dollars in monthly recurring revenue.
 
-I do not let it slide anymore.
+Right now Flyn is at one hundred and seventy five dollars MRR. Not the number I want. But that is the honest number today, and I would rather write that down than round it up.
 
-I got lucky exactly once. The day that reel took off.
+Whether it is Sunday or Monday or any other day, I do not stop showing up. That is the whole rule for me.
 
-Everything after that reel was not luck. It was two posts a day, every day, on a schedule nobody was cheering for. That is a far less interesting story to tell than luck, which might be why people reach for luck instead.
+When Flyn crosses one thousand dollars, I will come back and write the next part of this.
 
-I have lived this pattern before, in quieter forms.
-
-There was a stretch where I wrote something every single day for more than one hundred and twenty days straight.
-
-I remember almost none of the individual pieces.
-
-I remember the feeling.
-
-Sitting down on some forgettable evening with absolutely nothing to say. Writing anyway, because I had made a rule, and the rule did not come with an exception clause for days I had nothing left.
-
-In college I prepared for debates far past the point where it was fun, going over the same arguments until they stopped feeling clever and started feeling automatic. That repetition, not any natural gift, is what made me one of the better debaters there.
-
-I carried close to seventy seven kilos for a long time and brought it down to somewhere around sixty four, sixty five.
-
-Not a dramatic yoga retreat.
-
-Not a diet overhaul.
-
-Just not missing the mat, one unremarkable session after another.
-
-Now here is the part I usually leave out.
-
-The part that does not make me look like someone who has this figured out.
-
-I have tried to build a personal brand more than once. I dropped it every time.
-
-I got interested in podcasting. Never recorded anything worth mentioning.
-
-I started writing a book. I stopped after a chapter or two. It still sits unfinished.
-
-This is not an essay about being a disciplined person.
-
-I am not always that.
-
-It is an essay about the narrow set of times I actually showed up every day without exception, and what I noticed is that those are the only times anything ever actually worked.
-
-Not the bursts. When I go hard for a week and then disappear for two, nothing compounds. It just resets.
-
-Virat Kohli was eighteen, playing for Delhi against Karnataka in a Ranji Trophy match at Feroz Shah Kotla in December 2006, not out on forty at the end of the day’s play, when his father died overnight, reportedly of a heart attack.
-
-He came back the next morning and batted on to ninety, an innings that helped Delhi cross the follow on line, before he was dismissed and left for the funeral that same evening.
-
-Nobody would have blamed him for not walking out.
-
-He walked out.
-
-Jiro Ono has run the same ten seat sushi restaurant in Tokyo for roughly six decades. One of his apprentices reportedly remade the same egg sushi over two hundred times before Jiro finally approved a single piece.
-
-That is not a talent story.
-
-It is a consistency story with a very high number attached to it.
-
-Cristiano Ronaldo watched alcohol take his father from him and has lived almost entirely without it since, with one on record exception, a glass of champagne after a European final, because that day earned it.
-
-None of these are stories about a gift.
-
-They are stories about what a person does on the day they had every reasonable excuse not to show up.
-
-Right now I am building Flyn, a branded short links and click analytics product. For the last sixty days I have shipped three days a week and spent the other four telling people it exists, aiming at my first thousand dollars in monthly recurring revenue.
-
-As of today Flyn sits at one hundred and seventy five dollars in monthly recurring revenue.
-
-That is not the number I am aiming for. I would rather write it down at one hundred and seventy five than round it up or wait until it looks better.
-
-Some of those sixty days I have wanted to skip.
-
-Whether it is Sunday or Monday or whatever day it happens to be, you never stop showing up. That is the whole rule.
-
-I have not skipped one yet.
-
-When Flyn actually crosses a thousand dollars, I plan to come back and write the follow up to this essay. The one where the number has caught up to the goal instead of just walking toward it.
-
-Aristotle wrote about this a very long time ago, in a passage from the Nicomachean Ethics that I keep coming back to.
+Aristotle wrote something I keep coming back to, in the Nicomachean Ethics.
 
 > For the things we have to learn before we can do them, we learn by doing them, e.g. men become builders by building and lyre-players by playing the lyre; so too we become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts.
 
-He was not writing about Instagram reels or sushi restaurants or short links.
+He was not talking about Instagram or startups. He was talking about how anyone becomes anything. Two thousand years later, it is still true.
 
-He was writing about how a person becomes anything at all, and the answer he landed on, more than two thousand years before any of this happened to me, is the same one I keep arriving at from the inside of my own average, unremarkable days.
+People may get lucky. For me, the only thing that has ever actually worked is consistency. Not luck. Not going hard for a few days and then disappearing. That never worked for me.
 
-People may get lucky.
-
-For me the only thing that has ever actually worked is consistency. Not luck. And not the version where I go high for a few days and then disappear, because that has never once worked for me.
-
-I am writing this down so that the next time I am tempted to quit something, I do not have to trust my mood.
-
-I just have to read this.
-
-Success was never about luck.
-
-It was about the day I did not skip.
+So I am writing this down. The next time I want to quit something, I do not want to trust my mood. I just want to read this and remember: success was never about luck. It was about the day I did not skip.
